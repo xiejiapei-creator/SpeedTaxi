@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homeBarGold02",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 90,
+      "height": 90
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 90,
+      "height": 90
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d1ba84fc-7e0a-4e5a-ad76-2e736869bf73@6c48a",
+    "packable": true
+  }
+}

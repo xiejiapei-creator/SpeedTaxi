@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shopBoxChoose",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 160,
+      "height": 160
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 160,
+      "height": 160
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ee9b1fa9-582b-4592-babe-14ebc9186118@6c48a",
+    "packable": true
+  }
+}

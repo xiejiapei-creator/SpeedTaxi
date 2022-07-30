@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightImgStar",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 349,
+      "height": 282
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 349,
+      "height": 282
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "8ee3702e-618e-4a0c-8f88-3efc50be6430@6c48a",
+    "packable": true
+  }
+}

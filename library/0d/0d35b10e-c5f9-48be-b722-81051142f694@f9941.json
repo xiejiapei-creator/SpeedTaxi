@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homeIconArrow",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 50,
+      "height": 98
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 50,
+      "height": 98
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "0d35b10e-c5f9-48be-b722-81051142f694@6c48a",
+    "packable": true
+  }
+}

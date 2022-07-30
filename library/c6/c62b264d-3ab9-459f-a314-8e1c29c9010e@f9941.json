@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightImgLineYellow",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 547,
+      "height": 24
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 547,
+      "height": 24
+    },
+    "rotated": false,
+    "capInsets": [
+      35,
+      10,
+      42,
+      12
+    ],
+    "texture": "c62b264d-3ab9-459f-a314-8e1c29c9010e@6c48a",
+    "packable": true
+  }
+}

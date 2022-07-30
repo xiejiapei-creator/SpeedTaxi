@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rankIconArrow",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 92,
+      "height": 99
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 92,
+      "height": 99
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e48dfece-d72f-4959-95aa-22ca9b626608@6c48a",
+    "packable": true
+  }
+}

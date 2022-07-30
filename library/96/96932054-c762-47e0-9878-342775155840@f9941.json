@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightBoxTalk",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 110,
+      "height": 109
+    },
+    "offset": {
+      "x": 0,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 110,
+      "height": 110
+    },
+    "rotated": false,
+    "capInsets": [
+      35,
+      38,
+      31,
+      42
+    ],
+    "texture": "96932054-c762-47e0-9878-342775155840@6c48a",
+    "packable": true
+  }
+}

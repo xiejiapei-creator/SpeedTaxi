@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loadingCar02",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 33,
+      "height": 33
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 33,
+      "height": 33
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "33fa6394-37e5-4da8-b1ae-7eee42bd9ca6@6c48a",
+    "packable": true
+  }
+}

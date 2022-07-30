@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rankBox01",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 116,
+      "height": 115
+    },
+    "offset": {
+      "x": 0,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 116,
+      "height": 116
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "08c2f144-f2c9-4cc6-8cbd-77f5127c5799@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightImgHand",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 98,
+      "height": 119
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 98,
+      "height": 119
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "8f70c4b9-4854-479e-9647-ca68cdd119b3@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "servers",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "ip": "127.0.0.1",
+      "name": "本机",
+      "port": 43010,
+      "id": 1,
+      "is_test_server": 1,
+      "version": "1.0.8"
+    }
+  ]
+}

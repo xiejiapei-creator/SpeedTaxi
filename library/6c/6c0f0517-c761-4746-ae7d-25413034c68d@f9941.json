@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "commonRectangle8",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 1,
+      "width": 400,
+      "height": 53
+    },
+    "offset": {
+      "x": 0,
+      "y": 2.5
+    },
+    "originalSize": {
+      "width": 400,
+      "height": 60
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "6c0f0517-c761-4746-ae7d-25413034c68d@6c48a",
+    "packable": true
+  }
+}

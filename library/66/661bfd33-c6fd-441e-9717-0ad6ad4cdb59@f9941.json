@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "car102Black",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 27,
+      "width": 145,
+      "height": 112
+    },
+    "offset": {
+      "x": -1.5,
+      "y": -3
+    },
+    "originalSize": {
+      "width": 160,
+      "height": 160
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "661bfd33-c6fd-441e-9717-0ad6ad4cdb59@6c48a",
+    "packable": true
+  }
+}

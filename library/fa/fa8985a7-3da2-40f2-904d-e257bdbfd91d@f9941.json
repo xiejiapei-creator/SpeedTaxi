@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lotteryImg01",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 590,
+      "height": 590
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 590,
+      "height": 590
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "fa8985a7-3da2-40f2-904d-e257bdbfd91d@6c48a",
+    "packable": true
+  }
+}

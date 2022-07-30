@@ -1,0 +1,2290 @@
+{
+  "66ca5c6d-8586-4d83-95a9-1ee358ca6547": {
+    "url": "db://assets/animation",
+    "value": {}
+  },
+  "f09633f3-7b28-47ff-8f6a-51211ed49833": {
+    "url": "db://assets/loginPackage",
+    "value": {}
+  },
+  "ad8dd252-091e-4780-8868-20579e73b831": {
+    "url": "db://assets/map",
+    "value": {}
+  },
+  "cddb8e71-1f56-4e12-8bc0-e8642f711201": {
+    "url": "db://assets/material",
+    "value": {}
+  },
+  "05eee71f-5473-421c-a99b-c52178c43fb7": {
+    "url": "db://assets/model",
+    "value": {}
+  },
+  "d6cc3061-d419-4b25-935e-51266ea82469": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "d722aa08-723b-40c5-a2ea-939daf4d0a4d": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "756f6072-854b-4313-8195-1a74ef51e4ec": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "1e1e8637-e9a2-4f14-9a36-850cde5047f2": {
+    "url": "db://assets/textures",
+    "value": {}
+  },
+  "94ff69c0-12ce-433f-979e-7eee45b9958e": {
+    "url": "db://assets/animation/carShow.anim",
+    "value": {}
+  },
+  "e91f340e-9c5c-4b78-825c-67bf26ee4389": {
+    "url": "db://assets/animation/light.anim",
+    "value": {}
+  },
+  "86abc866-5ea3-405a-9c5b-8d11fdce0cc6": {
+    "url": "db://assets/animation/lightNew.anim",
+    "value": {}
+  },
+  "a5cd54e6-c58b-4450-ab6a-31f76ed530a2": {
+    "url": "db://assets/animation/mainHide.anim",
+    "value": {}
+  },
+  "4b0ce40b-62e4-491a-b2d7-03d2737a46b8": {
+    "url": "db://assets/animation/mainShow.anim",
+    "value": {}
+  },
+  "2f169262-e17e-4af0-b81c-f5e232680340": {
+    "url": "db://assets/animation/makeMoney.anim",
+    "value": {}
+  },
+  "b5df97ee-6202-4aa3-9e52-3aee425de751": {
+    "url": "db://assets/animation/moreGameItem.anim",
+    "value": {}
+  },
+  "d7cefe23-d74e-4b77-8f40-969dca3d13f3": {
+    "url": "db://assets/animation/rewardIdle.anim",
+    "value": {}
+  },
+  "c0a5ab74-ef4e-4947-b6b1-ccf427acaa8b": {
+    "url": "db://assets/animation/rewardShow.anim",
+    "value": {}
+  },
+  "54654fa8-0648-452c-86d8-f35946be60c6": {
+    "url": "db://assets/animation/showBtnFocus.anim",
+    "value": {}
+  },
+  "3ccc7606-1760-4468-8926-fddfcdb96bfa": {
+    "url": "db://assets/animation/showFlyReward.anim",
+    "value": {}
+  },
+  "1b18ddad-9eb1-43f6-984e-fcdb72e9801c": {
+    "url": "db://assets/animation/showGuide.anim",
+    "value": {}
+  },
+  "b2df2c05-f540-4268-b30b-adac8eadee1c": {
+    "url": "db://assets/animation/showTalk.anim",
+    "value": {}
+  },
+  "f31e43e1-6ffa-4caf-bec9-61b50a30ffa0": {
+    "url": "db://assets/animation/star.anim",
+    "value": {}
+  },
+  "433e09cb-3eeb-4a0b-819f-19373be6eef2": {
+    "url": "db://assets/loginPackage/loadingBg.jpg",
+    "value": {}
+  },
+  "112d732c-11ca-49d0-9fc2-ab0cfcd70c3e": {
+    "url": "db://assets/loginPackage/loadingBg01.jpg",
+    "value": {}
+  },
+  "73489357-9f6d-4e94-9ac7-8fcee7f4d579": {
+    "url": "db://assets/loginPackage/loadingCar",
+    "value": {}
+  },
+  "c0c6810b-faa9-44c7-8bca-7a584d9626f0": {
+    "url": "db://assets/loginPackage/singleColor.png",
+    "value": {}
+  },
+  "97243e5b-17bc-46f4-9764-8d015bff1975": {
+    "url": "db://assets/loginPackage/singleColorBlack.png",
+    "value": {}
+  },
+  "8801634b-f563-4d24-b8f7-810bf7cb0fa1": {
+    "url": "db://assets/map/map000.prefab",
+    "value": {}
+  },
+  "f28fab43-c373-4efe-8134-e932bfdaf340": {
+    "url": "db://assets/map/map101.prefab",
+    "value": {}
+  },
+  "5d59e5b3-e6a2-40d1-b76a-e8db864b9678": {
+    "url": "db://assets/map/map102.prefab",
+    "value": {}
+  },
+  "7a3d713a-8d6c-44a4-9a78-f59cebea8b7a": {
+    "url": "db://assets/map/map103.prefab",
+    "value": {}
+  },
+  "926248d7-5768-41d6-b433-f5e8df336dd2": {
+    "url": "db://assets/map/map104.prefab",
+    "value": {}
+  },
+  "30ce626e-5326-48aa-ad41-35d845733001": {
+    "url": "db://assets/map/map105.prefab",
+    "value": {}
+  },
+  "87184295-d330-4155-8426-bfa552d273f4": {
+    "url": "db://assets/map/map106.prefab",
+    "value": {}
+  },
+  "c0334bf1-d5ab-418d-923c-09db2010c933": {
+    "url": "db://assets/map/map107.prefab",
+    "value": {}
+  },
+  "cdb6bba3-0e5c-41c3-a208-88e1f657e043": {
+    "url": "db://assets/map/map108.prefab",
+    "value": {}
+  },
+  "85de7c13-6747-476e-a19c-d827b512146d": {
+    "url": "db://assets/map/map109.prefab",
+    "value": {}
+  },
+  "bfdd8c45-bb03-4ca9-93c4-5a55a4ab49c2": {
+    "url": "db://assets/map/map110.prefab",
+    "value": {}
+  },
+  "bedba763-90a9-4903-a1c0-2b00036ecac5": {
+    "url": "db://assets/map/map111.prefab",
+    "value": {}
+  },
+  "b09fd253-4a21-4a92-9c13-9b4fa74d013d": {
+    "url": "db://assets/map/map112.prefab",
+    "value": {}
+  },
+  "4e1d85d9-be1d-4c9a-a890-ebf911556974": {
+    "url": "db://assets/map/map113.prefab",
+    "value": {}
+  },
+  "b5ed87ef-21e3-47b9-9eed-f0885928731f": {
+    "url": "db://assets/map/map114.prefab",
+    "value": {}
+  },
+  "021d8084-8bde-4634-a10d-eaffd13c5731": {
+    "url": "db://assets/map/map115.prefab",
+    "value": {}
+  },
+  "78f7f3de-ea39-4fde-96c1-52af8f1626a8": {
+    "url": "db://assets/map/map116.prefab",
+    "value": {}
+  },
+  "c064757a-e0d0-4f42-89f2-7eef6a554aa8": {
+    "url": "db://assets/map/map117.prefab",
+    "value": {}
+  },
+  "546c334c-1fac-4360-baaf-45c0a66c0969": {
+    "url": "db://assets/map/map118.prefab",
+    "value": {}
+  },
+  "c11293e3-5708-4f76-bf49-890050fd369a": {
+    "url": "db://assets/map/map119.prefab",
+    "value": {}
+  },
+  "8604be6c-bee0-4946-8bb3-cd99d0f03857": {
+    "url": "db://assets/map/map120.prefab",
+    "value": {}
+  },
+  "98212b13-6e21-4c3b-a59f-97d7c927a6b4": {
+    "url": "db://assets/material/car.mtl",
+    "value": {}
+  },
+  "283af72f-9658-47ae-8a3f-afc5745d2287": {
+    "url": "db://assets/material/light.mtl",
+    "value": {}
+  },
+  "fb1d0a85-b957-4a4d-91e6-6f4dd91ac887": {
+    "url": "db://assets/material/plane.mtl",
+    "value": {}
+  },
+  "1a255b99-489b-4fdd-ad68-5df6486e81e8": {
+    "url": "db://assets/material/texture",
+    "value": {}
+  },
+  "0dd86468-f203-4032-9338-a8e5e6dcbcce": {
+    "url": "db://assets/model/cars",
+    "value": {}
+  },
+  "f118593a-cbe1-4ab5-8c5d-f50eab6c9982": {
+    "url": "db://assets/model/customer",
+    "value": {}
+  },
+  "0904b75d-5954-4de4-99d9-c9f484370056": {
+    "url": "db://assets/model/effect",
+    "value": {}
+  },
+  "d6beeefc-442c-4a4b-aed2-59fa7b955e02": {
+    "url": "db://assets/model/house",
+    "value": {}
+  },
+  "b23e172b-e55a-472a-aef7-f7a51a08a383": {
+    "url": "db://assets/model/plane",
+    "value": {}
+  },
+  "dc7f3151-3aeb-4fba-89f0-c9edbbba92ba": {
+    "url": "db://assets/model/road",
+    "value": {}
+  },
+  "52cc57d9-56dd-4803-8098-ba89ee4db203": {
+    "url": "db://assets/model/sign",
+    "value": {}
+  },
+  "beae43ee-13f4-4e0c-ba5c-b3d828135c95": {
+    "url": "db://assets/model/tree",
+    "value": {}
+  },
+  "95c180d3-b07d-49e4-8f61-e5cb1ab94e1f": {
+    "url": "db://assets/resources/datas",
+    "value": {}
+  },
+  "674e3e25-5c3c-41a2-a160-0a52b35c478f": {
+    "url": "db://assets/resources/gamePackage",
+    "value": {}
+  },
+  "ddef7cc8-59c3-4892-91a3-2b7f32bb828f": {
+    "url": "db://assets/resources/prefab",
+    "value": {}
+  },
+  "21472705-eeda-4479-960c-68bca1b49253": {
+    "url": "db://assets/scene/login.scene",
+    "value": {}
+  },
+  "e96d6ae0-6179-4ac3-8969-a9b662fb0e9c": {
+    "url": "db://assets/scene/main.scene",
+    "value": {}
+  },
+  "d99216aa-699c-4351-9769-d003a55d30da": {
+    "url": "db://assets/script/declare",
+    "value": {}
+  },
+  "dc28d1dc-047a-4632-a77b-96cfc0710c55": {
+    "url": "db://assets/script/fight",
+    "value": {}
+  },
+  "a27b613f-7603-4d5a-9fcf-f3c6c003677a": {
+    "url": "db://assets/script/framework",
+    "value": {}
+  },
+  "e1b496ef-d184-4a6a-96b0-3f8aa603f584": {
+    "url": "db://assets/script/i18nMaster",
+    "value": {}
+  },
+  "0cc619f8-7bd6-4e3b-97eb-717070e961ab": {
+    "url": "db://assets/script/libs",
+    "value": {}
+  },
+  "81faf03a-9cb2-4c8e-a4f6-96cdb6957196": {
+    "url": "db://assets/script/logic",
+    "value": {}
+  },
+  "c5aa722c-5abe-40e1-b94f-7853da9d733f": {
+    "url": "db://assets/script/main.ts",
+    "value": {}
+  },
+  "2ad0da94-4e4c-423f-a785-30fc46c6eb26": {
+    "url": "db://assets/script/ui",
+    "value": {}
+  },
+  "75ef428b-ee5a-4e12-832b-d0c68eec46b8": {
+    "url": "db://assets/textures/UI",
+    "value": {}
+  },
+  "d59f9f65-1627-44f7-8d59-75566aed38b2": {
+    "url": "db://assets/textures/effect",
+    "value": {}
+  },
+  "45816042-6257-4acb-a15a-b4970cac5510": {
+    "url": "db://assets/loginPackage/loadingCar/TrailModule01.mtl",
+    "value": {}
+  },
+  "98ce9505-e341-4c8e-aab4-ee797cc8c94c": {
+    "url": "db://assets/loginPackage/loadingCar/TrailModule01.png",
+    "value": {}
+  },
+  "190285d7-5314-48d6-83ff-73fa2accc0e7": {
+    "url": "db://assets/loginPackage/loadingCar/loadingCar.anim",
+    "value": {}
+  },
+  "0de65add-2596-4acf-a421-416e2edd85a4": {
+    "url": "db://assets/loginPackage/loadingCar/loadingCar01.png",
+    "value": {}
+  },
+  "33fa6394-37e5-4da8-b1ae-7eee42bd9ca6": {
+    "url": "db://assets/loginPackage/loadingCar/loadingCar02.png",
+    "value": {}
+  },
+  "14bc4439-7f82-4f33-9d15-c956ad5cdcd3": {
+    "url": "db://assets/loginPackage/loadingCar/loadingCar03.png",
+    "value": {}
+  },
+  "374bcb3d-d0d0-4345-ae18-b9e46fe0950d": {
+    "url": "db://assets/loginPackage/loadingCar/loadingCar04.png",
+    "value": {}
+  },
+  "045576e8-b57d-4d41-b514-f508978b0ac0": {
+    "url": "db://assets/material/texture/light.png",
+    "value": {}
+  },
+  "09000ae2-2039-4ba3-ad0f-c0216e9d0a1a": {
+    "url": "db://assets/model/cars/taxi",
+    "value": {}
+  },
+  "af438862-7a36-4986-9b2d-ad9fd19fdc88": {
+    "url": "db://assets/model/cars/truck",
+    "value": {}
+  },
+  "6760f1c1-ee54-4335-9e86-6eb88660a254": {
+    "url": "db://assets/model/customer/1",
+    "value": {}
+  },
+  "97ed4dea-2f9a-45b7-9500-d14b60f77b11": {
+    "url": "db://assets/model/customer/2",
+    "value": {}
+  },
+  "48de806a-cdb2-4ca0-9394-c42a68ef4ef7": {
+    "url": "db://assets/model/effect/coin",
+    "value": {}
+  },
+  "b33e3b20-1226-4d84-9428-745f63ac6df0": {
+    "url": "db://assets/model/effect/shield",
+    "value": {}
+  },
+  "1dea81df-031e-4954-88ae-d2c3bba63187": {
+    "url": "db://assets/model/effect/tailGas",
+    "value": {}
+  },
+  "e946c729-2436-4a2c-b94b-d64cedfbc245": {
+    "url": "db://assets/model/effect/tailLine",
+    "value": {}
+  },
+  "3cdc8bc7-088b-4837-8831-9f38eeeb8c88": {
+    "url": "db://assets/model/house/house01.FBX",
+    "value": {}
+  },
+  "e0012da4-1edf-49f8-8393-c177ba70d240": {
+    "url": "db://assets/model/house/house01.jpg",
+    "value": {}
+  },
+  "c4995fba-9b4b-4968-957c-6eb66f4e73eb": {
+    "url": "db://assets/model/house/house02.FBX",
+    "value": {}
+  },
+  "57738da8-697e-4c8e-a9de-e96a4b29fe71": {
+    "url": "db://assets/model/house/house02.jpg",
+    "value": {}
+  },
+  "5d473794-62a1-42d2-8349-9905111f1565": {
+    "url": "db://assets/model/plane/Materials_plane01",
+    "value": {}
+  },
+  "c58a2112-026e-4433-a392-ba5d337c8d09": {
+    "url": "db://assets/model/plane/plane01.FBX",
+    "value": {}
+  },
+  "8f2a4250-f2bf-4f36-9339-d1e89dc6b1db": {
+    "url": "db://assets/model/plane/plane01.jpg",
+    "value": {}
+  },
+  "a7ff2512-9e56-469c-810f-74529a97e426": {
+    "url": "db://assets/model/road/road01.FBX",
+    "value": {}
+  },
+  "d81ff52d-ca67-4e1b-9cb4-561c285f9c92": {
+    "url": "db://assets/model/road/road01.jpg",
+    "value": {}
+  },
+  "29f6b875-dda6-4f1f-82c3-1ec375754c73": {
+    "url": "db://assets/model/road/road02.FBX",
+    "value": {}
+  },
+  "38306c6a-f0a8-4885-9998-261ec81e5462": {
+    "url": "db://assets/model/road/road02.jpg",
+    "value": {}
+  },
+  "48a21055-cdbe-4dd3-9f77-d38d8a061f4a": {
+    "url": "db://assets/model/road/road03.FBX",
+    "value": {}
+  },
+  "ffc02252-433c-4574-a4d7-0152d2b83db8": {
+    "url": "db://assets/model/road/road03.jpg",
+    "value": {}
+  },
+  "011cfd8d-7044-46ab-a65b-d0783db10ebf": {
+    "url": "db://assets/model/road/road04.FBX",
+    "value": {}
+  },
+  "76563dac-7b68-4f3f-a880-d1be43e5a601": {
+    "url": "db://assets/model/road/road05.FBX",
+    "value": {}
+  },
+  "7aa1e8c8-3187-4384-824c-4e2a6efaa708": {
+    "url": "db://assets/model/road/road06.FBX",
+    "value": {}
+  },
+  "b3fb4f30-7c9a-4b2b-934b-f014ac37f1bc": {
+    "url": "db://assets/model/road/road07.FBX",
+    "value": {}
+  },
+  "39cfc34b-9cc2-4d3d-b1fa-e4e2a349af4a": {
+    "url": "db://assets/model/road/road08.FBX",
+    "value": {}
+  },
+  "73c15f5f-8227-413d-a25d-c4844b6c4e87": {
+    "url": "db://assets/model/sign/end.FBX",
+    "value": {}
+  },
+  "e1873d82-7bb1-4553-ae0a-710d91e9299d": {
+    "url": "db://assets/model/sign/end.jpg",
+    "value": {}
+  },
+  "5787398d-4f32-4f3f-b9fc-b312084d6ea4": {
+    "url": "db://assets/model/sign/sign.jpg",
+    "value": {}
+  },
+  "59ba0f68-626f-4ed9-9834-dd57f9ab880a": {
+    "url": "db://assets/model/sign/sign01.FBX",
+    "value": {}
+  },
+  "96668fae-e56b-4b88-a2fc-3b63df2ace75": {
+    "url": "db://assets/model/sign/sign02.FBX",
+    "value": {}
+  },
+  "97b5ed3f-f707-4d41-8adb-a1526f1b4f26": {
+    "url": "db://assets/model/sign/start.FBX",
+    "value": {}
+  },
+  "b6ec0607-b70d-409c-bf2a-a998a598482d": {
+    "url": "db://assets/model/sign/start.jpg",
+    "value": {}
+  },
+  "9fa22f3f-a37f-4e4b-9693-98864b9a26a8": {
+    "url": "db://assets/model/tree/stone01.FBX",
+    "value": {}
+  },
+  "7bda0529-b4ff-41d8-89ab-fed9b93c0c62": {
+    "url": "db://assets/model/tree/stone01.png",
+    "value": {}
+  },
+  "295002c6-3f82-4398-b3fd-5ce4239e9f10": {
+    "url": "db://assets/model/tree/stone02.FBX",
+    "value": {}
+  },
+  "93bc4a5a-c9d6-40a5-9033-c5fee26d5c33": {
+    "url": "db://assets/model/tree/stone02.png",
+    "value": {}
+  },
+  "8238a4e4-d7ea-4333-911f-5fddcb293f3c": {
+    "url": "db://assets/model/tree/tree01.FBX",
+    "value": {}
+  },
+  "ac748162-d4fa-4662-b822-d37a5c2147fb": {
+    "url": "db://assets/model/tree/tree02.FBX",
+    "value": {}
+  },
+  "96d2f1bc-0a9d-4598-840e-51b1f9bc4a36": {
+    "url": "db://assets/model/tree/trees01.jpg",
+    "value": {}
+  },
+  "40ef20b8-e41f-46a0-852c-8eedceb6578b": {
+    "url": "db://assets/resources/datas/car.csv",
+    "value": {}
+  },
+  "031ef488-61df-4ff3-9d25-92640a1c97ff": {
+    "url": "db://assets/resources/datas/servers.json",
+    "value": {}
+  },
+  "8a65da0c-eadc-4719-b3e3-1424c9a27852": {
+    "url": "db://assets/resources/datas/signIn.csv",
+    "value": {}
+  },
+  "51576083-1356-4a55-b595-3029494c4ba5": {
+    "url": "db://assets/resources/datas/talk.csv",
+    "value": {}
+  },
+  "9136c368-fb65-49bc-862b-eb9928cbb6bd": {
+    "url": "db://assets/resources/gamePackage/audio",
+    "value": {}
+  },
+  "ec038430-b2f3-4488-a1e9-f8ad56b4055b": {
+    "url": "db://assets/resources/gamePackage/map",
+    "value": {}
+  },
+  "8dd62206-87cc-4e69-8ce7-8d9910b0fa7c": {
+    "url": "db://assets/resources/gamePackage/texture",
+    "value": {}
+  },
+  "86b5d862-932d-4c64-8dac-60330a3b049a": {
+    "url": "db://assets/resources/prefab/car",
+    "value": {}
+  },
+  "6b129082-7987-4a09-99d2-429e90a470a7": {
+    "url": "db://assets/resources/prefab/effect",
+    "value": {}
+  },
+  "6467a669-46db-48a1-92cc-2141575ad5f5": {
+    "url": "db://assets/resources/prefab/ui",
+    "value": {}
+  },
+  "d7707687-201a-4a5a-9b07-1dc8ba88adae": {
+    "url": "db://assets/script/declare/wx.d.ts",
+    "value": {}
+  },
+  "e6d4f543-de9c-49ed-8d4a-85ff1f454a1a": {
+    "url": "db://assets/script/fight/car.ts",
+    "value": {}
+  },
+  "0ab971f9-d632-402c-9afa-68ef60ccd1a0": {
+    "url": "db://assets/script/fight/carManager.ts",
+    "value": {}
+  },
+  "586a8b5d-6818-4f42-9ae5-dab72fcf3b40": {
+    "url": "db://assets/script/fight/customerManager.ts",
+    "value": {}
+  },
+  "cf3718af-39cd-407b-ae2d-dd2700cea8ef": {
+    "url": "db://assets/script/fight/effectManager.ts",
+    "value": {}
+  },
+  "dbe36cbe-2f00-4618-82fc-23cec5dcefbf": {
+    "url": "db://assets/script/fight/fightConstants.ts",
+    "value": {}
+  },
+  "f3d36aa4-36c9-4f07-84c8-19c665a7cbdd": {
+    "url": "db://assets/script/fight/fightManager.ts",
+    "value": {}
+  },
+  "273ad915-2d18-440a-80e3-7be9c2741b84": {
+    "url": "db://assets/script/fight/fightMap.ts",
+    "value": {}
+  },
+  "ff8eee8e-4257-4f34-bae0-2e95d13a8b66": {
+    "url": "db://assets/script/fight/follow.ts",
+    "value": {}
+  },
+  "953facdc-25bd-4bb8-9943-4259050a4146": {
+    "url": "db://assets/script/fight/roadPoint.ts",
+    "value": {}
+  },
+  "98dcd425-f068-4460-b251-1bc6a9f8487e": {
+    "url": "db://assets/script/framework/GameRoot.ts",
+    "value": {}
+  },
+  "e478cb8c-1c97-481d-ae5f-3f79b9519ed2": {
+    "url": "db://assets/script/framework/audioManager.ts",
+    "value": {}
+  },
+  "5a305cd5-064e-4650-8773-24b6cec15f87": {
+    "url": "db://assets/script/framework/clientEvent.ts",
+    "value": {}
+  },
+  "05c3799a-a33b-4872-a610-c4ff007e3d63": {
+    "url": "db://assets/script/framework/configuration.ts",
+    "value": {}
+  },
+  "1ad879a9-4c31-4357-b75e-d313304c2ab8": {
+    "url": "db://assets/script/framework/constant.ts",
+    "value": {}
+  },
+  "64d5a474-d666-4802-b675-e28a92c5dcf4": {
+    "url": "db://assets/script/framework/csvManager.ts",
+    "value": {}
+  },
+  "10a09a26-dec6-43f2-ad87-e744cbc0b21c": {
+    "url": "db://assets/script/framework/eventListener.ts",
+    "value": {}
+  },
+  "acd0c565-6888-4bba-b980-2144bf37ed81": {
+    "url": "db://assets/script/framework/localConfig.ts",
+    "value": {}
+  },
+  "8cbac0dd-5530-4e81-940c-caf43339e033": {
+    "url": "db://assets/script/framework/lodash.ts",
+    "value": {}
+  },
+  "10a2583a-4c33-4fd8-8202-745e07b68a71": {
+    "url": "db://assets/script/framework/oneToMultiListener.ts",
+    "value": {}
+  },
+  "985d5f67-e433-48ac-8718-f6622c7195cd": {
+    "url": "db://assets/script/framework/playerData.ts",
+    "value": {}
+  },
+  "90777eaa-e226-4db9-b6ab-65fdd4b7703c": {
+    "url": "db://assets/script/framework/poolManager.ts",
+    "value": {}
+  },
+  "aebee106-2516-466c-adf5-e504f3b28965": {
+    "url": "db://assets/script/framework/resourceUtil.ts",
+    "value": {}
+  },
+  "ae98d873-4256-4bda-9d52-6c382f35da09": {
+    "url": "db://assets/script/framework/uiManager.ts",
+    "value": {}
+  },
+  "f1bcda7d-b750-4f76-8d2b-2fcef14726da": {
+    "url": "db://assets/script/framework/util.ts",
+    "value": {}
+  },
+  "b546f289-1efc-477a-b3e6-c26ef187ddc5": {
+    "url": "db://assets/script/i18nMaster/i18n",
+    "value": {}
+  },
+  "c5afa4aa-a284-444e-90ce-beef6d5653f9": {
+    "url": "db://assets/script/i18nMaster/runtime-scripts",
+    "value": {}
+  },
+  "ad034b85-8dec-40b2-a07b-fe0c9a82950a": {
+    "url": "db://assets/script/libs/lz-string.min.js",
+    "value": {}
+  },
+  "b6eed76d-c047-4f0d-8b33-48f9f6ad58db": {
+    "url": "db://assets/script/logic/gameLogic.ts",
+    "value": {}
+  },
+  "b58a0d8d-795f-4264-8363-0f00c590aef3": {
+    "url": "db://assets/script/ui/common",
+    "value": {}
+  },
+  "2dabfd83-d4d5-4202-ac6a-f3b627e58dbd": {
+    "url": "db://assets/script/ui/fight",
+    "value": {}
+  },
+  "84c60c0f-0074-432a-8218-4f05a3590bee": {
+    "url": "db://assets/script/ui/lottery",
+    "value": {}
+  },
+  "fc1e9914-ceb2-462d-86db-f7b118c081c5": {
+    "url": "db://assets/script/ui/main",
+    "value": {}
+  },
+  "66c48704-590e-45ce-ad6c-8095bcce0751": {
+    "url": "db://assets/script/ui/online",
+    "value": {}
+  },
+  "071bb290-510c-4cf4-80ce-ad398b30041a": {
+    "url": "db://assets/script/ui/shop",
+    "value": {}
+  },
+  "6d582e64-75fd-47dc-89d4-d9a68791a425": {
+    "url": "db://assets/script/ui/signIn",
+    "value": {}
+  },
+  "e00b4a28-221e-48ee-a815-38883cec46b8": {
+    "url": "db://assets/textures/UI/common",
+    "value": {}
+  },
+  "4db498ec-0ffe-4edf-aca9-6b782605a9e1": {
+    "url": "db://assets/textures/UI/daily",
+    "value": {}
+  },
+  "b6166e9a-057d-487f-903a-593427b43fb8": {
+    "url": "db://assets/textures/UI/fight",
+    "value": {}
+  },
+  "d66c23b7-1e16-4e56-a6eb-b5a945104e2c": {
+    "url": "db://assets/textures/UI/home",
+    "value": {}
+  },
+  "5169852b-dc06-4acf-8ab5-136b78dc28c7": {
+    "url": "db://assets/textures/UI/icon",
+    "value": {}
+  },
+  "894b0d62-bd30-489d-9f33-c0d974f1bd5d": {
+    "url": "db://assets/textures/UI/lottery",
+    "value": {}
+  },
+  "385cd93f-7a04-472c-94b5-b1af448118f1": {
+    "url": "db://assets/textures/UI/rank",
+    "value": {}
+  },
+  "a02dbc14-7680-4d8d-baa1-b0df71d755b4": {
+    "url": "db://assets/textures/UI/set",
+    "value": {}
+  },
+  "dbcb8b1a-59b6-4435-930b-0bf44a2664b2": {
+    "url": "db://assets/textures/UI/shop",
+    "value": {}
+  },
+  "0672946c-82ee-4c05-b944-46e1fb0e703c": {
+    "url": "db://assets/textures/effect/showGold",
+    "value": {}
+  },
+  "e3e1b0c1-6628-447c-96ce-423b5e3e260a": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi01",
+    "value": {}
+  },
+  "66350be0-9eb3-4e30-9874-8f51140495f5": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi02",
+    "value": {}
+  },
+  "6ac49747-10c8-4694-b327-a493e54b67ec": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi03",
+    "value": {}
+  },
+  "653e65a4-ac53-43de-9f53-49c41a47125b": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi04.FBX",
+    "value": {}
+  },
+  "8c2729f5-6219-4ba0-a667-6202d8837afa": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi05.FBX",
+    "value": {}
+  },
+  "ff2992ad-9bc7-411b-98e2-3c77d2dfd7e0": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi06",
+    "value": {}
+  },
+  "1f686ea1-315e-4283-8745-80ace0521f1d": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi07",
+    "value": {}
+  },
+  "397972ee-f355-4f21-bf5b-098603011cfd": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi08",
+    "value": {}
+  },
+  "51a69fe1-0221-40eb-aff6-9c6efb76136c": {
+    "url": "db://assets/model/cars/taxi/taxi01.FBX",
+    "value": {}
+  },
+  "b2087657-815f-4bb0-b45f-78a6c1188a23": {
+    "url": "db://assets/model/cars/taxi/taxi01.jpg",
+    "value": {}
+  },
+  "cdbb08dc-c88a-4d42-b8f5-e84f885c1b5b": {
+    "url": "db://assets/model/cars/taxi/taxi02.FBX",
+    "value": {}
+  },
+  "63f4c940-1ddb-45a5-86f2-a767080842ee": {
+    "url": "db://assets/model/cars/taxi/taxi02Blue.jpg",
+    "value": {}
+  },
+  "71136ce3-4d5d-4109-a12a-243a44dc52b0": {
+    "url": "db://assets/model/cars/taxi/taxi02Gray.jpg",
+    "value": {}
+  },
+  "011604df-4e2c-4c27-b817-2a30ed3df922": {
+    "url": "db://assets/model/cars/taxi/taxi03.FBX",
+    "value": {}
+  },
+  "bc6aa517-ed99-4fee-b38a-9c45bfe45c0e": {
+    "url": "db://assets/model/cars/taxi/taxi03Orange.jpg",
+    "value": {}
+  },
+  "ac105246-aa78-49f0-9887-38470f1c3e2a": {
+    "url": "db://assets/model/cars/taxi/taxi03Purple.jpg",
+    "value": {}
+  },
+  "6639ad1c-c6d6-4640-8c05-096030c374da": {
+    "url": "db://assets/model/cars/taxi/taxi04.FBX",
+    "value": {}
+  },
+  "ca971d58-bae9-43b5-8e68-d19e839dcf45": {
+    "url": "db://assets/model/cars/taxi/taxi04Light.png",
+    "value": {}
+  },
+  "4050f4ee-c050-4eeb-ac52-3894425a8ff6": {
+    "url": "db://assets/model/cars/taxi/taxi04Red.jpg",
+    "value": {}
+  },
+  "9009b4f8-3925-42a5-9c9d-d10c335492b8": {
+    "url": "db://assets/model/cars/taxi/taxi04Yellow.jpg",
+    "value": {}
+  },
+  "c702cdc7-c0fa-4dcf-9486-36d944625294": {
+    "url": "db://assets/model/cars/taxi/taxi05.FBX",
+    "value": {}
+  },
+  "b984606b-605e-4c64-a4e1-b61ebe90d58f": {
+    "url": "db://assets/model/cars/taxi/taxi05Green.jpg",
+    "value": {}
+  },
+  "d8ed011c-735f-412b-9fa9-b0dbaca3112b": {
+    "url": "db://assets/model/cars/taxi/taxi05Light.png",
+    "value": {}
+  },
+  "ff234bc8-8e92-4cd3-80b0-fd0b6522f60b": {
+    "url": "db://assets/model/cars/taxi/taxi05Red.png",
+    "value": {}
+  },
+  "b1194242-b40d-4597-b52e-0c1560da550e": {
+    "url": "db://assets/model/cars/taxi/taxi06.FBX",
+    "value": {}
+  },
+  "7fa30db1-7e2d-4572-b17a-0acf778474d4": {
+    "url": "db://assets/model/cars/taxi/taxi06Gray.jpg",
+    "value": {}
+  },
+  "5d46e54b-6556-4c62-9958-0f2b52ca20a8": {
+    "url": "db://assets/model/cars/taxi/taxi06Light.png",
+    "value": {}
+  },
+  "c21f9cc7-6e66-468e-b080-844d0634d3aa": {
+    "url": "db://assets/model/cars/taxi/taxi06Purple.jpg",
+    "value": {}
+  },
+  "b431a460-d1b5-451d-969a-0b3e60ec8068": {
+    "url": "db://assets/model/cars/taxi/taxi07.FBX",
+    "value": {}
+  },
+  "d7fdfa16-20fd-480f-bfc4-ebd413a2d005": {
+    "url": "db://assets/model/cars/taxi/taxi07Black.jpg",
+    "value": {}
+  },
+  "e7144720-bbbc-47ab-af80-003e15ca6927": {
+    "url": "db://assets/model/cars/taxi/taxi07Light.png",
+    "value": {}
+  },
+  "3fd4755e-4391-494a-96cd-05864cad2981": {
+    "url": "db://assets/model/cars/taxi/taxi07White.jpg",
+    "value": {}
+  },
+  "f3517f8b-1482-4257-a81f-a1afb79f49a8": {
+    "url": "db://assets/model/cars/taxi/taxi08.FBX",
+    "value": {}
+  },
+  "ba97c069-7f0b-4fc7-9fb7-21ec94deb0dd": {
+    "url": "db://assets/model/cars/taxi/taxi08Black.jpg",
+    "value": {}
+  },
+  "da948145-f253-4b85-8de0-8b35b8946791": {
+    "url": "db://assets/model/cars/taxi/taxi08Gray.jpg",
+    "value": {}
+  },
+  "4e896adc-ea1a-42b2-852b-1b32fad8d77e": {
+    "url": "db://assets/model/cars/truck/Materials_truck02",
+    "value": {}
+  },
+  "16c4db36-3cef-4fa2-ba47-13853124e393": {
+    "url": "db://assets/model/cars/truck/truck01.FBX",
+    "value": {}
+  },
+  "2715df6f-0dd3-4016-8fd2-1244321b5467": {
+    "url": "db://assets/model/cars/truck/truck01.jpg",
+    "value": {}
+  },
+  "933a6531-2595-4085-91a3-307eba7061ec": {
+    "url": "db://assets/model/cars/truck/truck02.FBX",
+    "value": {}
+  },
+  "fe30789f-0bc5-4dd0-8d10-397dcf111d2c": {
+    "url": "db://assets/model/cars/truck/truck02Blue.jpg",
+    "value": {}
+  },
+  "8a9fe7b4-824f-4cf9-b9a4-eb34ed37fe2a": {
+    "url": "db://assets/model/cars/truck/truck02Pink.jpg",
+    "value": {}
+  },
+  "5fddd986-b83e-4843-9837-c0ca94635b35": {
+    "url": "db://assets/model/cars/truck/truck02Silvery.jpg",
+    "value": {}
+  },
+  "14c08caf-9370-4796-ba18-4f8f5b61131f": {
+    "url": "db://assets/model/customer/1/girl01.fbx",
+    "value": {}
+  },
+  "42c9ac31-4386-44d0-9411-9d6ca6d2562b": {
+    "url": "db://assets/model/customer/1/girl01.jpg",
+    "value": {}
+  },
+  "336e0a5f-38d4-469c-8518-7b43c35865ef": {
+    "url": "db://assets/model/customer/1/girl01@walk.FBX",
+    "value": {}
+  },
+  "ffbd290d-cf30-4ae2-9cf2-e5d760459eac": {
+    "url": "db://assets/model/customer/2/man01.FBX",
+    "value": {}
+  },
+  "1d662a7c-6f33-4e6f-9349-fac8cd70c33e": {
+    "url": "db://assets/model/customer/2/man01.jpg",
+    "value": {}
+  },
+  "c6c2c183-0f72-42a1-8505-8381bae7b919": {
+    "url": "db://assets/model/customer/2/man01@walk.FBX",
+    "value": {}
+  },
+  "d0de18df-e2e4-4b30-9e7f-2930376ee3cc": {
+    "url": "db://assets/model/effect/coin/coin.FBX",
+    "value": {}
+  },
+  "ea8a0f85-6ba4-45ae-a997-83f48241dee7": {
+    "url": "db://assets/model/effect/coin/coin.jpg",
+    "value": {}
+  },
+  "1bafd8b9-753f-42dd-8e52-afa02a85dc51": {
+    "url": "db://assets/model/effect/coin/coin.mtl",
+    "value": {}
+  },
+  "352d5d03-aba4-4e37-96be-971fa6a0c200": {
+    "url": "db://assets/model/effect/shield/Sphere01.mtl",
+    "value": {}
+  },
+  "b150b6bb-025f-4f82-8d75-975f224bc697": {
+    "url": "db://assets/model/effect/shield/effectShield001.png",
+    "value": {}
+  },
+  "66264733-0518-4e98-a0c6-8fdf4fd5c7ae": {
+    "url": "db://assets/model/effect/shield/shield01.FBX",
+    "value": {}
+  },
+  "c83b66e5-2cc2-494a-912c-649a7bffda66": {
+    "url": "db://assets/model/effect/tailGas/TrailModule01.mtl",
+    "value": {}
+  },
+  "8c176b57-3c2f-4017-9a24-d1824cc0b5dd": {
+    "url": "db://assets/model/effect/tailGas/TrailModule01.png",
+    "value": {}
+  },
+  "f51af20d-5227-4552-94e2-345d497c1cdf": {
+    "url": "db://assets/model/effect/tailLine/TrailModule02.mtl",
+    "value": {}
+  },
+  "84d838bd-9c7c-4587-ae44-9e19cd005d54": {
+    "url": "db://assets/model/effect/tailLine/TrailModule02.png",
+    "value": {}
+  },
+  "e2266c4a-409a-4ebe-a3b8-d6e81f5386ff": {
+    "url": "db://assets/model/effect/tailLine/TrailModule02.prefab",
+    "value": {}
+  },
+  "82d90b5b-0e48-4e89-b13c-e08d16d8edb6": {
+    "url": "db://assets/model/plane/Materials_plane01/Material50x50.mtl",
+    "value": {}
+  },
+  "cd9445b3-7504-47ec-b369-e22047220dcb": {
+    "url": "db://assets/resources/gamePackage/audio/music",
+    "value": {}
+  },
+  "96b6818f-b81b-4891-8f3c-3296193d5987": {
+    "url": "db://assets/resources/gamePackage/audio/sound",
+    "value": {}
+  },
+  "18d8fb39-c5d7-403d-97be-c10e6298cc58": {
+    "url": "db://assets/resources/gamePackage/map/config",
+    "value": {}
+  },
+  "e5f788df-feaa-4bd8-b36b-62fd68806347": {
+    "url": "db://assets/resources/gamePackage/map/customer",
+    "value": {}
+  },
+  "7bf6ebc7-4308-47b9-ac9a-e7e141660af3": {
+    "url": "db://assets/resources/gamePackage/map/house",
+    "value": {}
+  },
+  "81f3ac6e-f13b-4719-84a2-5456f16b8350": {
+    "url": "db://assets/resources/gamePackage/map/plane",
+    "value": {}
+  },
+  "d214aab7-c6de-43fa-8974-014f274fcf4a": {
+    "url": "db://assets/resources/gamePackage/map/road",
+    "value": {}
+  },
+  "046214ad-9590-4720-95f6-098b1493e68c": {
+    "url": "db://assets/resources/gamePackage/map/sign",
+    "value": {}
+  },
+  "5e9a773f-8323-430a-bc3a-fbaf7bd61b67": {
+    "url": "db://assets/resources/gamePackage/map/tree",
+    "value": {}
+  },
+  "c1f53047-27e3-48c4-ad5d-b31eca406496": {
+    "url": "db://assets/resources/gamePackage/texture/car",
+    "value": {}
+  },
+  "d1f1da69-2586-4b5b-af8d-2a4876812231": {
+    "url": "db://assets/resources/gamePackage/texture/head",
+    "value": {}
+  },
+  "70623bd0-0c00-45dd-9182-c7f367ded6b3": {
+    "url": "db://assets/resources/prefab/car/car101.prefab",
+    "value": {}
+  },
+  "16f28ffa-8967-4f9c-8c09-9457cff95dfc": {
+    "url": "db://assets/resources/prefab/car/car102.prefab",
+    "value": {}
+  },
+  "5d41e555-96ae-4773-b3ff-fe8cec0ffdf5": {
+    "url": "db://assets/resources/prefab/car/car103.prefab",
+    "value": {}
+  },
+  "9c14c9a2-7b0f-4b78-a637-058c404208cb": {
+    "url": "db://assets/resources/prefab/car/car104.prefab",
+    "value": {}
+  },
+  "aab6d70d-eda4-4018-8904-642fd3d32571": {
+    "url": "db://assets/resources/prefab/car/car105.prefab",
+    "value": {}
+  },
+  "c1d27716-2ea5-4ea4-89e0-6efc372aac13": {
+    "url": "db://assets/resources/prefab/car/car106.prefab",
+    "value": {}
+  },
+  "7dd33893-1a5f-4d35-bd7f-20bb810c41fc": {
+    "url": "db://assets/resources/prefab/car/car107.prefab",
+    "value": {}
+  },
+  "21fa612f-6d86-4f95-84a1-72478405aa5a": {
+    "url": "db://assets/resources/prefab/car/car108.prefab",
+    "value": {}
+  },
+  "63acef46-2fcb-41e4-ab64-72ea81b047fe": {
+    "url": "db://assets/resources/prefab/car/car109.prefab",
+    "value": {}
+  },
+  "a16ce4c3-342c-4991-abc1-1a938e3ed6c2": {
+    "url": "db://assets/resources/prefab/car/car110.prefab",
+    "value": {}
+  },
+  "ae08f9df-a94a-4fb9-a615-2d3e99402bb8": {
+    "url": "db://assets/resources/prefab/car/car111.prefab",
+    "value": {}
+  },
+  "73b3e9e4-4477-48c5-8f2a-057a399beb3a": {
+    "url": "db://assets/resources/prefab/car/car112.prefab",
+    "value": {}
+  },
+  "7e74a1b8-1463-4369-8ad6-47bdfd0c9bb8": {
+    "url": "db://assets/resources/prefab/car/car113.prefab",
+    "value": {}
+  },
+  "232cd86b-568e-4d1d-9cf2-dfe80750d6d0": {
+    "url": "db://assets/resources/prefab/car/car114.prefab",
+    "value": {}
+  },
+  "7beaa9b7-f50f-421c-bf05-0da5ae157ece": {
+    "url": "db://assets/resources/prefab/car/car115.prefab",
+    "value": {}
+  },
+  "e318e908-6a17-4cb5-b719-e229309b409b": {
+    "url": "db://assets/resources/prefab/car/car201.prefab",
+    "value": {}
+  },
+  "a8387ac6-6966-4070-8e50-30f5b47a42c3": {
+    "url": "db://assets/resources/prefab/car/car202.prefab",
+    "value": {}
+  },
+  "67dacda2-2e5b-4bc6-938d-c9d920729005": {
+    "url": "db://assets/resources/prefab/car/car203.prefab",
+    "value": {}
+  },
+  "29190189-bad8-4b55-b5db-f75cceade1fd": {
+    "url": "db://assets/resources/prefab/car/car204.prefab",
+    "value": {}
+  },
+  "fa38d6a4-315e-453c-9e8f-54870e2a9dce": {
+    "url": "db://assets/resources/prefab/car/light.prefab",
+    "value": {}
+  },
+  "1cfc3212-1089-4f38-8441-89356a389308": {
+    "url": "db://assets/resources/prefab/effect/coin.prefab",
+    "value": {}
+  },
+  "2285da64-bcc5-4ef5-98dc-59224179c94f": {
+    "url": "db://assets/resources/prefab/effect/gas.prefab",
+    "value": {}
+  },
+  "decc3732-de8b-42cf-a6c2-40381a6ba27a": {
+    "url": "db://assets/resources/prefab/effect/shield.prefab",
+    "value": {}
+  },
+  "44b2b751-bd98-4ede-be6a-8896d9bbd276": {
+    "url": "db://assets/resources/prefab/ui/car",
+    "value": {}
+  },
+  "b6c925eb-f56b-45d8-a514-96076db09b6a": {
+    "url": "db://assets/resources/prefab/ui/common",
+    "value": {}
+  },
+  "b91b404d-2166-4db8-9730-1c82c1c9be1c": {
+    "url": "db://assets/resources/prefab/ui/fight",
+    "value": {}
+  },
+  "0877ab68-4e9f-4d3b-afa7-4da20564776a": {
+    "url": "db://assets/resources/prefab/ui/lottery",
+    "value": {}
+  },
+  "156c20d9-705e-4032-abf9-cceeae265093": {
+    "url": "db://assets/resources/prefab/ui/main",
+    "value": {}
+  },
+  "e13ac451-0f67-40c4-990e-c736b9fc625b": {
+    "url": "db://assets/resources/prefab/ui/rank",
+    "value": {}
+  },
+  "1bd727f3-45a5-4c1d-b824-df10384d19f0": {
+    "url": "db://assets/resources/prefab/ui/shop",
+    "value": {}
+  },
+  "3093cac8-5cce-4bbf-b9c1-4f6fc57e0d6e": {
+    "url": "db://assets/resources/prefab/ui/signIn",
+    "value": {}
+  },
+  "c2ee7373-5c47-46d5-9dc2-5e57e3a0ef0c": {
+    "url": "db://assets/script/i18nMaster/i18n/en.ts",
+    "value": {}
+  },
+  "3c2acb11-044f-4a3b-8878-b064e206544b": {
+    "url": "db://assets/script/i18nMaster/i18n/zh.ts",
+    "value": {}
+  },
+  "d659735e-473e-4eb9-9ea4-71e2641d6737": {
+    "url": "db://assets/script/i18nMaster/runtime-scripts/LanguageData.ts",
+    "value": {}
+  },
+  "c4c1ac57-37e3-4be2-8610-12bd8ce2a9f6": {
+    "url": "db://assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts",
+    "value": {}
+  },
+  "28bd9c44-32fd-4628-b6d3-b808b8078748": {
+    "url": "db://assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts",
+    "value": {}
+  },
+  "93cd2ddd-c44c-4404-b6c3-ff16cca753cd": {
+    "url": "db://assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts",
+    "value": {}
+  },
+  "2683925c-556a-4669-b13d-c40effb96270": {
+    "url": "db://assets/script/i18nMaster/runtime-scripts/polyglot.min.ts",
+    "value": {}
+  },
+  "968bae9c-f45f-40ba-963f-01b2a3023fbe": {
+    "url": "db://assets/script/ui/common/blockInputEvent.ts",
+    "value": {}
+  },
+  "f130bafd-1b06-4690-9124-446a27857c51": {
+    "url": "db://assets/script/ui/common/btnAdapter.ts",
+    "value": {}
+  },
+  "99c5fc74-9251-47ab-9da8-18f7592fb679": {
+    "url": "db://assets/script/ui/common/loading.ts",
+    "value": {}
+  },
+  "880e1902-9487-4a3e-a757-7604c8a5dbf6": {
+    "url": "db://assets/script/ui/common/showReward.ts",
+    "value": {}
+  },
+  "60f49bb0-e3f7-40e2-b1a1-fc2ef7f14d53": {
+    "url": "db://assets/script/ui/common/tips.ts",
+    "value": {}
+  },
+  "4b7cf452-e5b7-4ff2-aa3c-ae8acd8259f9": {
+    "url": "db://assets/script/ui/common/updateValueLabel.ts",
+    "value": {}
+  },
+  "b6b069a9-14c9-4866-a2e9-c578ac5370ae": {
+    "url": "db://assets/script/ui/fight/balance.ts",
+    "value": {}
+  },
+  "884dc490-7368-47b0-96f2-dfeee58c8c9d": {
+    "url": "db://assets/script/ui/fight/clickBox.ts",
+    "value": {}
+  },
+  "daea1101-a32d-4cb3-a3c1-740ba94169e7": {
+    "url": "db://assets/script/ui/fight/fightCanvas.ts",
+    "value": {}
+  },
+  "fb9b757c-6d93-43df-9220-37201354c36f": {
+    "url": "db://assets/script/ui/fight/fightUI.ts",
+    "value": {}
+  },
+  "95f632fa-e777-4180-b05d-220616ce91ef": {
+    "url": "db://assets/script/ui/fight/revive.ts",
+    "value": {}
+  },
+  "d7ed744c-bef6-48bd-b749-c96c1f2060f2": {
+    "url": "db://assets/script/ui/lottery/lottery.ts",
+    "value": {}
+  },
+  "93fc8b1e-5d3a-4f26-abc7-17a265a62a2c": {
+    "url": "db://assets/script/ui/lottery/lotteryItem.ts",
+    "value": {}
+  },
+  "d14d411e-c120-45b4-89fa-07fad152f8cc": {
+    "url": "db://assets/script/ui/main/flyReward.ts",
+    "value": {}
+  },
+  "62dd6ea8-fd30-44ca-a857-f2066413cfc6": {
+    "url": "db://assets/script/ui/main/flyRewardItem.ts",
+    "value": {}
+  },
+  "ec04ba20-7a6a-4e1e-b421-5551d5a92655": {
+    "url": "db://assets/script/ui/main/invincible.ts",
+    "value": {}
+  },
+  "6e662c50-b3dc-4f7d-9e06-9fbbcda38bb9": {
+    "url": "db://assets/script/ui/main/mainUI.ts",
+    "value": {}
+  },
+  "501dd2cf-e496-4d3d-a6b4-db1fab14a007": {
+    "url": "db://assets/script/ui/main/setting.ts",
+    "value": {}
+  },
+  "5bf75e81-cb92-4e9a-829b-1b46a8533aba": {
+    "url": "db://assets/script/ui/main/trial.ts",
+    "value": {}
+  },
+  "349ac0b9-9560-4dc9-92fb-968c589bfb83": {
+    "url": "db://assets/script/ui/online/online.ts",
+    "value": {}
+  },
+  "5b356c32-2770-4261-9a40-0d750ec9a7e8": {
+    "url": "db://assets/script/ui/online/onlineDouble.ts",
+    "value": {}
+  },
+  "15eff5cd-b4aa-4678-b72d-38395346a865": {
+    "url": "db://assets/script/ui/shop/shop.ts",
+    "value": {}
+  },
+  "2b1f3eb5-e4f6-4d9e-a612-0d3568e6d23c": {
+    "url": "db://assets/script/ui/shop/shopItem.ts",
+    "value": {}
+  },
+  "359803d5-1997-4eea-8e6c-70413c91c8b2": {
+    "url": "db://assets/script/ui/shop/shopPage.ts",
+    "value": {}
+  },
+  "9d0166c1-881e-49d6-9aed-47a55c04f778": {
+    "url": "db://assets/script/ui/signIn/signIn.ts",
+    "value": {}
+  },
+  "8a6ef87c-8c5f-49b3-b659-5f200be7b286": {
+    "url": "db://assets/script/ui/signIn/signInItem.ts",
+    "value": {}
+  },
+  "6e908a59-c057-448a-bc55-6484827f3a82": {
+    "url": "db://assets/textures/UI/common/commonBtnBlue.png",
+    "value": {}
+  },
+  "005e83b4-1fa6-4591-a495-17073bd114d7": {
+    "url": "db://assets/textures/UI/common/commonBtnGray.png",
+    "value": {}
+  },
+  "747f852a-7693-4fbc-b2ed-983862453c5e": {
+    "url": "db://assets/textures/UI/common/commonBtnRed.png",
+    "value": {}
+  },
+  "4f2f6688-7d56-4073-8bfd-f2947e86a7ec": {
+    "url": "db://assets/textures/UI/common/commonBtnYellow.png",
+    "value": {}
+  },
+  "0a761927-812a-4d48-be93-b05c87ac3065": {
+    "url": "db://assets/textures/UI/common/commonIconClose.png",
+    "value": {}
+  },
+  "f86c241f-6b2c-4a79-adec-27043f46bf06": {
+    "url": "db://assets/textures/UI/common/commonIconClose02.png",
+    "value": {}
+  },
+  "9363ef2c-80db-41e6-8276-5a00e5671242": {
+    "url": "db://assets/textures/UI/common/commonIconGold.png",
+    "value": {}
+  },
+  "a5589727-4ac6-4bad-a6b3-8265979b5300": {
+    "url": "db://assets/textures/UI/common/commonRectangle1.png",
+    "value": {}
+  },
+  "da959189-c8de-49ba-97a7-caab04ed371e": {
+    "url": "db://assets/textures/UI/common/commonRectangle2.png",
+    "value": {}
+  },
+  "6c0f0517-c761-4746-ae7d-25413034c68d": {
+    "url": "db://assets/textures/UI/common/commonRectangle8.png",
+    "value": {}
+  },
+  "31f65fbc-cf00-4550-8509-d42e9afd0e9a": {
+    "url": "db://assets/textures/UI/common/commonTitle01.png",
+    "value": {}
+  },
+  "f2e4fc4b-2a47-4f18-859d-d4a8643fbedf": {
+    "url": "db://assets/textures/UI/common/commonTitle02.png",
+    "value": {}
+  },
+  "f98f9a89-72c0-4f3a-8a6c-4c08133f392c": {
+    "url": "db://assets/textures/UI/common/rankxImg03.png",
+    "value": {}
+  },
+  "07fdeca0-495a-4e3a-bf6a-43a05745356e": {
+    "url": "db://assets/textures/UI/daily/dailyBtn01.png",
+    "value": {}
+  },
+  "76324a35-8129-4bc0-923b-21ab40dda467": {
+    "url": "db://assets/textures/UI/daily/dailyImg01.png",
+    "value": {}
+  },
+  "7819c24c-6357-407b-806d-2bcabe9a0092": {
+    "url": "db://assets/textures/UI/daily/dailyImg02.png",
+    "value": {}
+  },
+  "b3239366-2918-4a4b-9197-b9bf319a07eb": {
+    "url": "db://assets/textures/UI/daily/dailyImg03.png",
+    "value": {}
+  },
+  "da172d5b-4245-4419-bf3e-610cf5db1733": {
+    "url": "db://assets/textures/UI/daily/dailyImgGet.png",
+    "value": {}
+  },
+  "fa3d84eb-124d-4987-9cc5-10a9cb499f9f": {
+    "url": "db://assets/textures/UI/daily/dailyImgLight.png",
+    "value": {}
+  },
+  "da1d47be-dd11-418e-9686-cc948b4e1e85": {
+    "url": "db://assets/textures/UI/fight/fightBox1a.png",
+    "value": {}
+  },
+  "6f1d8442-7218-4a78-9ec0-c9d1eb218704": {
+    "url": "db://assets/textures/UI/fight/fightBox2a.png",
+    "value": {}
+  },
+  "89ded3eb-3991-48a4-8045-8e3f44e7dbb5": {
+    "url": "db://assets/textures/UI/fight/fightBox2b.png",
+    "value": {}
+  },
+  "6a7feffe-f853-4a10-a5a8-06492d54ab17": {
+    "url": "db://assets/textures/UI/fight/fightBox2c.png",
+    "value": {}
+  },
+  "732f89e6-a961-4787-9f8f-ddb4b391f37e": {
+    "url": "db://assets/textures/UI/fight/fightBox3a.png",
+    "value": {}
+  },
+  "c2eea998-84d8-4392-ba84-844d32a13ba7": {
+    "url": "db://assets/textures/UI/fight/fightBox3b.png",
+    "value": {}
+  },
+  "4a0e199c-9f4e-4026-b0be-c2532bd0442d": {
+    "url": "db://assets/textures/UI/fight/fightBoxGold.png",
+    "value": {}
+  },
+  "fa7e49f8-1522-4f0e-9b96-13514b66ee41": {
+    "url": "db://assets/textures/UI/fight/fightBoxGold02.png",
+    "value": {}
+  },
+  "de47e7db-76cd-4902-95df-55c982048ee7": {
+    "url": "db://assets/textures/UI/fight/fightBoxHead.png",
+    "value": {}
+  },
+  "96932054-c762-47e0-9878-342775155840": {
+    "url": "db://assets/textures/UI/fight/fightBoxTalk.png",
+    "value": {}
+  },
+  "62e0d27b-6f5e-47a2-af94-16fd7c53a29f": {
+    "url": "db://assets/textures/UI/fight/fightImgCircle.png",
+    "value": {}
+  },
+  "0240af3e-66b8-4618-bf2a-38a0a1ab00a4": {
+    "url": "db://assets/textures/UI/fight/fightImgFont01.png",
+    "value": {}
+  },
+  "86a51a48-8f15-4e7d-bce7-71c45d80693f": {
+    "url": "db://assets/textures/UI/fight/fightImgFont01En.png",
+    "value": {}
+  },
+  "4a8338cd-c2d1-4431-b5e5-7485bb02934c": {
+    "url": "db://assets/textures/UI/fight/fightImgFont02.png",
+    "value": {}
+  },
+  "79ae2f12-c50a-4af8-9248-cca834f97f33": {
+    "url": "db://assets/textures/UI/fight/fightImgFont02En.png",
+    "value": {}
+  },
+  "c48d31cd-2d92-405e-93a1-d28c67cbb357": {
+    "url": "db://assets/textures/UI/fight/fightImgGift.png",
+    "value": {}
+  },
+  "e3597585-874d-4469-be8c-3dde78753407": {
+    "url": "db://assets/textures/UI/fight/fightImgGold.png",
+    "value": {}
+  },
+  "8f70c4b9-4854-479e-9647-ca68cdd119b3": {
+    "url": "db://assets/textures/UI/fight/fightImgHand.png",
+    "value": {}
+  },
+  "0bc921f5-ad30-4fd6-827e-4fe91d99c159": {
+    "url": "db://assets/textures/UI/fight/fightImgLight.png",
+    "value": {}
+  },
+  "b5862106-f04c-4691-8ec6-da20132a7bdd": {
+    "url": "db://assets/textures/UI/fight/fightImgLineRed.png",
+    "value": {}
+  },
+  "c62b264d-3ab9-459f-a314-8e1c29c9010e": {
+    "url": "db://assets/textures/UI/fight/fightImgLineYellow.png",
+    "value": {}
+  },
+  "8ee3702e-618e-4a0c-8f88-3efc50be6430": {
+    "url": "db://assets/textures/UI/fight/fightImgStar.png",
+    "value": {}
+  },
+  "38f31051-1e9b-47e1-ac34-d14797bee7fb": {
+    "url": "db://assets/textures/UI/fight/fightLineGray.png",
+    "value": {}
+  },
+  "0925fa6d-5a5d-488d-978f-d11d08639b00": {
+    "url": "db://assets/textures/UI/fight/fightLineRed.png",
+    "value": {}
+  },
+  "89d2b7e6-ef2d-4632-8c2c-ee2ce8caf74c": {
+    "url": "db://assets/textures/UI/fight/fightShieldImg01.png",
+    "value": {}
+  },
+  "972ffe0b-b60b-4229-993f-0c5043e18c52": {
+    "url": "db://assets/textures/UI/fight/fightShieldImg02.png",
+    "value": {}
+  },
+  "00cfef27-cb62-488a-83c3-3e7c68b1f3aa": {
+    "url": "db://assets/textures/UI/home/homeBarGold01.png",
+    "value": {}
+  },
+  "d1ba84fc-7e0a-4e5a-ad76-2e736869bf73": {
+    "url": "db://assets/textures/UI/home/homeBarGold02.png",
+    "value": {}
+  },
+  "70a1094e-d70e-4d51-a2fd-f529434f83bf": {
+    "url": "db://assets/textures/UI/home/homeBoxAD.png",
+    "value": {}
+  },
+  "2aa574da-af27-448c-b596-0a4106e2738a": {
+    "url": "db://assets/textures/UI/home/homeBoxArrow.png",
+    "value": {}
+  },
+  "d505b253-bb59-42fa-baf9-fabd04a76700": {
+    "url": "db://assets/textures/UI/home/homeBoxGame.jpg",
+    "value": {}
+  },
+  "19ca9376-4855-4da0-a868-7204f33774a6": {
+    "url": "db://assets/textures/UI/home/homeBoxGame02.png",
+    "value": {}
+  },
+  "d62b8dbb-50d3-4686-bee0-7d1a7f111acf": {
+    "url": "db://assets/textures/UI/home/homeBoxGame03.png",
+    "value": {}
+  },
+  "b792c277-3756-4387-a37a-2cbd8fc13698": {
+    "url": "db://assets/textures/UI/home/homeBoxGold.png",
+    "value": {}
+  },
+  "7d396703-1387-416c-a6b6-e707359a08ce": {
+    "url": "db://assets/textures/UI/home/homeBoxOnline01.png",
+    "value": {}
+  },
+  "618aa68c-cff2-48fd-8e23-0e06b8d97c97": {
+    "url": "db://assets/textures/UI/home/homeBoxOnline02.png",
+    "value": {}
+  },
+  "0d35b10e-c5f9-48be-b722-81051142f694": {
+    "url": "db://assets/textures/UI/home/homeIconArrow.png",
+    "value": {}
+  },
+  "9c6c68cb-fce1-4fdc-9b4c-da0948b63459": {
+    "url": "db://assets/textures/UI/home/homeIconCar.png",
+    "value": {}
+  },
+  "21dc501b-4dce-4757-891f-0922fad4d0cf": {
+    "url": "db://assets/textures/UI/home/homeIconDaily.png",
+    "value": {}
+  },
+  "411a57ab-d553-4e8a-9382-9010e2966cf4": {
+    "url": "db://assets/textures/UI/home/homeIconGame.png",
+    "value": {}
+  },
+  "76d5d38e-a4f8-4bfa-aa10-b2f01da6ba9e": {
+    "url": "db://assets/textures/UI/home/homeIconGold.png",
+    "value": {}
+  },
+  "b9e09e90-a620-4d4e-ae0a-e72b9b1e17f4": {
+    "url": "db://assets/textures/UI/home/homeIconLottery.png",
+    "value": {}
+  },
+  "cfadd602-4da3-4fa8-a3a5-2b74784b5085": {
+    "url": "db://assets/textures/UI/home/homeIconRank.png",
+    "value": {}
+  },
+  "fea117cc-3b85-479e-83ab-e02c46c9c40f": {
+    "url": "db://assets/textures/UI/home/homeIconService.png",
+    "value": {}
+  },
+  "6c71d6df-cdeb-49e9-81d8-8af221965799": {
+    "url": "db://assets/textures/UI/home/homeIconSet.png",
+    "value": {}
+  },
+  "598faee4-c376-449f-9419-425332dd067b": {
+    "url": "db://assets/textures/UI/home/homeIconShare.png",
+    "value": {}
+  },
+  "6cfc706b-f748-4b66-9436-2338899a4c42": {
+    "url": "db://assets/textures/UI/home/homeIconVedio.png",
+    "value": {}
+  },
+  "fd82e8a9-33d9-4005-8f29-2a9661aa8dff": {
+    "url": "db://assets/textures/UI/home/homeImgGame.png",
+    "value": {}
+  },
+  "b1f97d1a-ef5e-4563-9ad4-4c7ed1d57d1f": {
+    "url": "db://assets/textures/UI/home/homeImgPoint.png",
+    "value": {}
+  },
+  "245993b7-80bb-4a2f-b930-635029e21219": {
+    "url": "db://assets/textures/UI/home/homeLogo.png",
+    "value": {}
+  },
+  "f2f1630a-562a-4d79-9849-8578c07a2b4e": {
+    "url": "db://assets/textures/UI/home/homeLogoEn.png",
+    "value": {}
+  },
+  "028a7551-eae1-4123-99b2-a4a8b0ee0e5c": {
+    "url": "db://assets/textures/UI/icon/10002.png",
+    "value": {}
+  },
+  "fa8985a7-3da2-40f2-904d-e257bdbfd91d": {
+    "url": "db://assets/textures/UI/lottery/lotteryImg01.png",
+    "value": {}
+  },
+  "e1d18b6e-dafd-47d9-b790-d91b29058531": {
+    "url": "db://assets/textures/UI/lottery/lotteryImg02.png",
+    "value": {}
+  },
+  "279eeefe-087a-43e1-a753-57831a40efd1": {
+    "url": "db://assets/textures/UI/lottery/lotteryImg03.png",
+    "value": {}
+  },
+  "08c2f144-f2c9-4cc6-8cbd-77f5127c5799": {
+    "url": "db://assets/textures/UI/rank/rankBox01.png",
+    "value": {}
+  },
+  "0838a8b4-5b13-4e96-9d65-6315d8bda36c": {
+    "url": "db://assets/textures/UI/rank/rankBox02.png",
+    "value": {}
+  },
+  "482f5100-5c1e-4655-acbc-2548fdaf56b5": {
+    "url": "db://assets/textures/UI/rank/rankBoxNumber.png",
+    "value": {}
+  },
+  "e48dfece-d72f-4959-95aa-22ca9b626608": {
+    "url": "db://assets/textures/UI/rank/rankIconArrow.png",
+    "value": {}
+  },
+  "90821eed-aed0-418e-b4df-9da4c8cee3c1": {
+    "url": "db://assets/textures/UI/rank/rankImgLine.png",
+    "value": {}
+  },
+  "a15d5042-6f98-4a6f-852c-7e3744e274a3": {
+    "url": "db://assets/textures/UI/set/setImg01.png",
+    "value": {}
+  },
+  "874708c3-114e-4cb8-94be-649c864bcd85": {
+    "url": "db://assets/textures/UI/set/setImg02.png",
+    "value": {}
+  },
+  "56a2a80c-e675-4d8f-a3ee-09c9b7b5c885": {
+    "url": "db://assets/textures/UI/set/setImg03.png",
+    "value": {}
+  },
+  "7c5a2617-f60a-4292-bde5-94d3bc7460e1": {
+    "url": "db://assets/textures/UI/set/setIocnMusic.png",
+    "value": {}
+  },
+  "60eafe84-c64d-47f1-a1c0-2d2fba69fb13": {
+    "url": "db://assets/textures/UI/set/setIocnShake.png",
+    "value": {}
+  },
+  "ee9b1fa9-582b-4592-babe-14ebc9186118": {
+    "url": "db://assets/textures/UI/shop/shopBoxChoose.png",
+    "value": {}
+  },
+  "a4bc7925-7efc-4b87-9d2f-8c80129493d0": {
+    "url": "db://assets/textures/UI/shop/shopIconGet.png",
+    "value": {}
+  },
+  "d75f32e6-a63c-4729-a730-03ee5b7c848b": {
+    "url": "db://assets/textures/UI/shop/shopPoint01.png",
+    "value": {}
+  },
+  "cb4b5467-4af9-4633-a660-c7a9a2c9de35": {
+    "url": "db://assets/textures/UI/shop/shopPoint02.png",
+    "value": {}
+  },
+  "ab6763cd-60c0-418f-9ab7-8ada18f9ace6": {
+    "url": "db://assets/textures/effect/showGold/00001.png",
+    "value": {}
+  },
+  "2cb2ebc1-99eb-43d1-85a6-0a43403119f8": {
+    "url": "db://assets/textures/effect/showGold/00002.png",
+    "value": {}
+  },
+  "b34cfc33-f504-47be-b442-3b43308b4dea": {
+    "url": "db://assets/textures/effect/showGold/00003.png",
+    "value": {}
+  },
+  "8346b890-8ae1-4f18-b441-bb39eaf0b601": {
+    "url": "db://assets/textures/effect/showGold/00004.png",
+    "value": {}
+  },
+  "eb77641c-623d-4bed-83cf-f7e4520198f4": {
+    "url": "db://assets/textures/effect/showGold/00005.png",
+    "value": {}
+  },
+  "1f8c3924-202b-4b5a-a46b-9072ce67c077": {
+    "url": "db://assets/textures/effect/showGold/00006.png",
+    "value": {}
+  },
+  "058433cc-69eb-4654-83ac-d89ad34510f4": {
+    "url": "db://assets/textures/effect/showGold/00007.png",
+    "value": {}
+  },
+  "72c1fb76-57f9-4a82-98c3-42b58dcdea8f": {
+    "url": "db://assets/textures/effect/showGold/00008.png",
+    "value": {}
+  },
+  "264e8944-df42-4cf9-ad76-567f4941850a": {
+    "url": "db://assets/textures/effect/showGold/00009.png",
+    "value": {}
+  },
+  "c1cca741-1a8d-402e-a0de-2f12c92b2a2f": {
+    "url": "db://assets/textures/effect/showGold/00010.png",
+    "value": {}
+  },
+  "6a93c5ad-1f69-4e50-8bc4-ee9c8e87741a": {
+    "url": "db://assets/textures/effect/showGold/00011.png",
+    "value": {}
+  },
+  "f25b357d-af6e-4b78-9d69-40cb7b21ca15": {
+    "url": "db://assets/textures/effect/showGold/00012.png",
+    "value": {}
+  },
+  "0af5d15c-1b9e-43d8-8c07-04582c3e895d": {
+    "url": "db://assets/textures/effect/showGold/commonIconCoin.png",
+    "value": {}
+  },
+  "d51b5b87-1166-43de-9e65-eaeecde08aa5": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi01/car.mtl",
+    "value": {}
+  },
+  "b4379d85-190b-4a2e-a2bb-f4b283c3caa5": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi01/uiCar.mtl",
+    "value": {}
+  },
+  "c36189d5-f904-4715-8d28-67d6ffab3f8a": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi02/carBlue.mtl",
+    "value": {}
+  },
+  "a4575f1f-03bc-44ff-aced-d20352e155c0": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi02/carGray.mtl",
+    "value": {}
+  },
+  "0e93ce69-30e0-4965-8b13-d9ebef81478c": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi02/uiCarBlue.mtl",
+    "value": {}
+  },
+  "45ed7bc3-e1b8-4b48-bf1a-767643969f82": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi02/uiCarGray.mtl",
+    "value": {}
+  },
+  "80cdc820-882f-4bca-b056-adf57b436ab7": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi03/Material #7.mtl",
+    "value": {}
+  },
+  "343997e7-90a9-404f-a5d0-1b90ea5342ec": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi03/carOrange.mtl",
+    "value": {}
+  },
+  "aa021e4a-71ff-4865-afeb-8c5b110688dd": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi03/carPurple.mtl",
+    "value": {}
+  },
+  "b649d49f-6506-470a-9454-ffd417d8ad08": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi03/uiCarOrange.mtl",
+    "value": {}
+  },
+  "d5cd1ac6-c7e5-4ef7-877a-33548b69ae09": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi03/uiCarPurple.mtl",
+    "value": {}
+  },
+  "24b4badf-aa4a-4c3f-a07c-0c5347a0d6a1": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi04.FBX/carRed.mtl",
+    "value": {}
+  },
+  "ed820ae1-3059-41a3-897e-40b1ae167dec": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi04.FBX/carYellow.mtl",
+    "value": {}
+  },
+  "fa0aeee9-2abb-48c4-ada5-dd902fa36438": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi04.FBX/uiCarRed.mtl",
+    "value": {}
+  },
+  "1ba9f45a-7279-4076-8dd4-eef0172632d7": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi04.FBX/uiCarYellow.mtl",
+    "value": {}
+  },
+  "8e5170b8-51ef-4f65-9951-b13ae5de3020": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi05.FBX/carGreen.mtl",
+    "value": {}
+  },
+  "76b1fa5e-bfa2-4c74-8f21-b1fcb93f46c4": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi05.FBX/carRed.mtl",
+    "value": {}
+  },
+  "8e725c3a-5db6-4d49-8581-b86d13160a38": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi05.FBX/uiCarGreen.mtl",
+    "value": {}
+  },
+  "d5729b62-1220-4584-9195-dd1bba2f5166": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi05.FBX/uiCarRed.mtl",
+    "value": {}
+  },
+  "d749d773-23f4-498f-970f-da60f6a468df": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi06/carGray.mtl",
+    "value": {}
+  },
+  "9a30801c-3f27-4d44-bd08-e3864f3797ab": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi06/carPurple.mtl",
+    "value": {}
+  },
+  "11331fe2-957b-4a1a-bb60-09512027743f": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi06/light1.mtl",
+    "value": {}
+  },
+  "17a9730e-2fba-4bd6-a740-b1c822794c50": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi06/taxi06Gray.mtl",
+    "value": {}
+  },
+  "2806aa95-c438-4232-a387-ead39d2a5d97": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi06/uiCarGray.mtl",
+    "value": {}
+  },
+  "b3c6943a-08ac-4c8e-b953-eafa26370624": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi06/uiCarPurple.mtl",
+    "value": {}
+  },
+  "e3f7cad6-a965-42df-9a29-55239293ce0c": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi07/carBlack.mtl",
+    "value": {}
+  },
+  "1965c911-0e0c-42ba-86b3-c79136693ed2": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi07/carWhite.mtl",
+    "value": {}
+  },
+  "7c9befc4-2913-43dd-b496-4ffda83834f9": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi07/uiCarBlack.mtl",
+    "value": {}
+  },
+  "57a0ef7c-8f62-4fd8-a7bd-a2579bbb540f": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi07/uiCarWhite.mtl",
+    "value": {}
+  },
+  "ea815576-1714-4892-866f-3b871c9d66ce": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi08/carBlack.mtl",
+    "value": {}
+  },
+  "60b15191-c083-4fd9-bba3-c349099c28bb": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi08/carGray.mtl",
+    "value": {}
+  },
+  "b36350ac-14de-4bce-a2b4-3ca2183c08e6": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi08/uiCarBlack.mtl",
+    "value": {}
+  },
+  "5b72acf6-a414-4cf2-a647-51acb92145de": {
+    "url": "db://assets/model/cars/taxi/Materials_taxi08/uiCarGray.mtl",
+    "value": {}
+  },
+  "c4be0f98-2ef6-4b76-bd55-e16ba39f78fd": {
+    "url": "db://assets/model/cars/truck/Materials_truck02/blue.mtl",
+    "value": {}
+  },
+  "969efbda-fab2-480e-b6dc-17fc6b4b2590": {
+    "url": "db://assets/model/cars/truck/Materials_truck02/pink.mtl",
+    "value": {}
+  },
+  "aacef7ca-a04c-4beb-947d-c87e1ff05731": {
+    "url": "db://assets/model/cars/truck/Materials_truck02/silvery.mtl",
+    "value": {}
+  },
+  "2204fbce-e666-40ab-bb77-c77e489254d6": {
+    "url": "db://assets/resources/gamePackage/audio/music/background.mp3",
+    "value": {}
+  },
+  "eb69f69f-bdcc-4645-84a9-c19e4e56968c": {
+    "url": "db://assets/resources/gamePackage/audio/sound/click.mp3",
+    "value": {}
+  },
+  "3c3fbe96-cd71-4263-b79a-a6b286d8d838": {
+    "url": "db://assets/resources/gamePackage/audio/sound/crash.mp3",
+    "value": {}
+  },
+  "ee778409-8b79-45b6-ab47-1738dd6d28f7": {
+    "url": "db://assets/resources/gamePackage/audio/sound/getMoney.mp3",
+    "value": {}
+  },
+  "ce7e77b3-1bc1-4900-a04f-405b195316a1": {
+    "url": "db://assets/resources/gamePackage/audio/sound/inCar.mp3",
+    "value": {}
+  },
+  "dc91f9e0-f694-4ee9-95b0-9c0d906aeca0": {
+    "url": "db://assets/resources/gamePackage/audio/sound/newOrder.mp3",
+    "value": {}
+  },
+  "9b5fdbd3-0321-41b5-b04d-662319e777df": {
+    "url": "db://assets/resources/gamePackage/audio/sound/start.mp3",
+    "value": {}
+  },
+  "ad43c6d1-4697-4575-894a-3103155cf763": {
+    "url": "db://assets/resources/gamePackage/audio/sound/stop.mp3",
+    "value": {}
+  },
+  "292123e2-04a2-4d2c-9d71-544ab4e1dd2e": {
+    "url": "db://assets/resources/gamePackage/audio/sound/tooting1.mp3",
+    "value": {}
+  },
+  "ae7a3717-5020-434a-af94-412e57bd412b": {
+    "url": "db://assets/resources/gamePackage/audio/sound/tooting2.mp3",
+    "value": {}
+  },
+  "6c17df4d-3611-40ec-a66b-aec4d947bc3b": {
+    "url": "db://assets/resources/gamePackage/audio/sound/win.mp3",
+    "value": {}
+  },
+  "0dc616e2-7c6a-4deb-a70e-37b778148028": {
+    "url": "db://assets/resources/gamePackage/map/config/map101.zip",
+    "value": {}
+  },
+  "a2179f5e-777a-4afa-b8c7-57a26585f32f": {
+    "url": "db://assets/resources/gamePackage/map/config/map102.zip",
+    "value": {}
+  },
+  "2923dc4c-6b93-45cc-9c2e-8491d64c81cf": {
+    "url": "db://assets/resources/gamePackage/map/config/map103.zip",
+    "value": {}
+  },
+  "049ed6c1-546b-4755-be1f-bb19436216f6": {
+    "url": "db://assets/resources/gamePackage/map/config/map104.zip",
+    "value": {}
+  },
+  "65bbdc41-4dea-4e72-a4e1-73de84279e81": {
+    "url": "db://assets/resources/gamePackage/map/config/map105.zip",
+    "value": {}
+  },
+  "2db99702-22ad-4d3e-931b-9f32801b4105": {
+    "url": "db://assets/resources/gamePackage/map/config/map106.zip",
+    "value": {}
+  },
+  "a63718d6-99b4-4def-9ddf-086f381a5261": {
+    "url": "db://assets/resources/gamePackage/map/config/map107.zip",
+    "value": {}
+  },
+  "0cd1b493-7408-434d-8c6e-ae6f5689a9d5": {
+    "url": "db://assets/resources/gamePackage/map/config/map108.zip",
+    "value": {}
+  },
+  "8b6b8cb0-230a-4f56-ba57-d29e4fff6396": {
+    "url": "db://assets/resources/gamePackage/map/config/map109.zip",
+    "value": {}
+  },
+  "a54d6190-ec49-4a89-aabb-472935045176": {
+    "url": "db://assets/resources/gamePackage/map/config/map110.zip",
+    "value": {}
+  },
+  "f86c4763-cc9a-4b46-a774-8d88539bc9f0": {
+    "url": "db://assets/resources/gamePackage/map/config/map111.zip",
+    "value": {}
+  },
+  "2030035a-097a-4252-a134-fa13fac88549": {
+    "url": "db://assets/resources/gamePackage/map/config/map112.zip",
+    "value": {}
+  },
+  "c129bbc4-4fbc-484b-978c-67107a92e62a": {
+    "url": "db://assets/resources/gamePackage/map/config/map113.zip",
+    "value": {}
+  },
+  "0a64768a-b5cd-4875-9de5-4ab9ba974046": {
+    "url": "db://assets/resources/gamePackage/map/config/map114.zip",
+    "value": {}
+  },
+  "a77a2633-7779-4328-85ed-aaccf4460d2d": {
+    "url": "db://assets/resources/gamePackage/map/config/map115.zip",
+    "value": {}
+  },
+  "994de8d8-b8b5-4ade-9e11-c9e8cdbd286e": {
+    "url": "db://assets/resources/gamePackage/map/config/map116.zip",
+    "value": {}
+  },
+  "9065168e-f3b3-48c8-8b87-f4e728913d41": {
+    "url": "db://assets/resources/gamePackage/map/config/map117.zip",
+    "value": {}
+  },
+  "d6c3c90a-56d1-419e-b4a0-49083f422a0f": {
+    "url": "db://assets/resources/gamePackage/map/config/map118.zip",
+    "value": {}
+  },
+  "cb9c8fbf-4968-450f-b6d5-2884ae6e703a": {
+    "url": "db://assets/resources/gamePackage/map/config/map119.zip",
+    "value": {}
+  },
+  "9343a337-515f-4a36-9c4a-76f668985665": {
+    "url": "db://assets/resources/gamePackage/map/config/map120.zip",
+    "value": {}
+  },
+  "5876945f-b907-4837-9b50-a49d1be703bf": {
+    "url": "db://assets/resources/gamePackage/map/customer/customer1.prefab",
+    "value": {}
+  },
+  "bca02af9-e033-440d-a886-ecbb1c19a2ed": {
+    "url": "db://assets/resources/gamePackage/map/customer/customer2.prefab",
+    "value": {}
+  },
+  "56f38734-d4d3-42c6-8d77-1b5bb13bbaad": {
+    "url": "db://assets/resources/gamePackage/map/house/house01.prefab",
+    "value": {}
+  },
+  "3c7fce09-c152-4d13-bba4-1865b063960a": {
+    "url": "db://assets/resources/gamePackage/map/house/house02.prefab",
+    "value": {}
+  },
+  "1f56590f-38c7-4fef-a645-c3e379bc9ba9": {
+    "url": "db://assets/resources/gamePackage/map/plane/plane01.prefab",
+    "value": {}
+  },
+  "535bfea9-9b13-4dde-8cf0-1ab362a5ec16": {
+    "url": "db://assets/resources/gamePackage/map/road/road01.prefab",
+    "value": {}
+  },
+  "6bcafb56-cb81-4dec-8db3-7c2d93ac1b2a": {
+    "url": "db://assets/resources/gamePackage/map/road/road02.prefab",
+    "value": {}
+  },
+  "c95b4a39-992c-47e6-a7a6-3706d3f3ed9b": {
+    "url": "db://assets/resources/gamePackage/map/road/road03.prefab",
+    "value": {}
+  },
+  "926336e9-986f-4375-93fd-227687cb9427": {
+    "url": "db://assets/resources/gamePackage/map/road/road04.prefab",
+    "value": {}
+  },
+  "d746ff8b-5845-4975-9313-03aabcc747ce": {
+    "url": "db://assets/resources/gamePackage/map/road/road05.prefab",
+    "value": {}
+  },
+  "9b84d8fd-fb9a-4da4-ad9a-267b680eb103": {
+    "url": "db://assets/resources/gamePackage/map/road/road06.prefab",
+    "value": {}
+  },
+  "911391ee-b59c-4e05-92ce-9e52d4aa1dd1": {
+    "url": "db://assets/resources/gamePackage/map/road/road07.prefab",
+    "value": {}
+  },
+  "3a7d7c0f-21da-492e-b73e-1d337601fc76": {
+    "url": "db://assets/resources/gamePackage/map/sign/end.prefab",
+    "value": {}
+  },
+  "3b5fe37d-5ff1-4225-a83b-0bd1a5402cbc": {
+    "url": "db://assets/resources/gamePackage/map/sign/sign01.prefab",
+    "value": {}
+  },
+  "b228680f-46f6-456d-905b-26bbdc09746c": {
+    "url": "db://assets/resources/gamePackage/map/sign/sign02.prefab",
+    "value": {}
+  },
+  "31566bbd-cc7f-439b-a3b1-08f90217f65e": {
+    "url": "db://assets/resources/gamePackage/map/sign/sign03.prefab",
+    "value": {}
+  },
+  "b60630e6-6a42-421e-9ca8-d1be53ace230": {
+    "url": "db://assets/resources/gamePackage/map/sign/start.prefab",
+    "value": {}
+  },
+  "e2b78391-71d0-4758-aebb-04dba9783c47": {
+    "url": "db://assets/resources/gamePackage/map/tree/stone01.prefab",
+    "value": {}
+  },
+  "9d423c0f-7efd-400e-86e6-b6691c165cf6": {
+    "url": "db://assets/resources/gamePackage/map/tree/stone02.prefab",
+    "value": {}
+  },
+  "d097808f-4042-4fd9-b7ea-2b0a1bae20bc": {
+    "url": "db://assets/resources/gamePackage/map/tree/tree01.prefab",
+    "value": {}
+  },
+  "cc257477-38dd-4fbe-b85c-f5688d643898": {
+    "url": "db://assets/resources/gamePackage/map/tree/tree02.prefab",
+    "value": {}
+  },
+  "50e7c842-84a8-48b2-9294-fe852ddaef87": {
+    "url": "db://assets/resources/gamePackage/texture/car/car101.png",
+    "value": {}
+  },
+  "e74d4d8a-b5ff-431d-bf6b-a25b0597e960": {
+    "url": "db://assets/resources/gamePackage/texture/car/car101Black.png",
+    "value": {}
+  },
+  "38473208-517c-419b-8b96-662dae60607e": {
+    "url": "db://assets/resources/gamePackage/texture/car/car102.png",
+    "value": {}
+  },
+  "661bfd33-c6fd-441e-9717-0ad6ad4cdb59": {
+    "url": "db://assets/resources/gamePackage/texture/car/car102Black.png",
+    "value": {}
+  },
+  "52cc2166-306a-465e-bc63-c081d74dac7a": {
+    "url": "db://assets/resources/gamePackage/texture/car/car103.png",
+    "value": {}
+  },
+  "3b02aff2-9453-4b81-b03b-fb473935eb66": {
+    "url": "db://assets/resources/gamePackage/texture/car/car103Black.png",
+    "value": {}
+  },
+  "58d23445-d79f-4707-a150-3e1cc67ff53e": {
+    "url": "db://assets/resources/gamePackage/texture/car/car104.png",
+    "value": {}
+  },
+  "5c7025a7-871c-4013-8e80-36af0b248e79": {
+    "url": "db://assets/resources/gamePackage/texture/car/car104Black.png",
+    "value": {}
+  },
+  "3d274669-50a3-472d-a51e-b61841d116bf": {
+    "url": "db://assets/resources/gamePackage/texture/car/car105.png",
+    "value": {}
+  },
+  "cd8ddb9f-ea6f-4d4c-8af3-07d7d269534d": {
+    "url": "db://assets/resources/gamePackage/texture/car/car105Black.png",
+    "value": {}
+  },
+  "f34fad6e-282a-4d60-ba61-eaace5c57512": {
+    "url": "db://assets/resources/gamePackage/texture/car/car106.png",
+    "value": {}
+  },
+  "8859a878-c0b3-4519-820b-6d910f5ad9b5": {
+    "url": "db://assets/resources/gamePackage/texture/car/car106Black.png",
+    "value": {}
+  },
+  "2cfdcb43-79dd-4b1b-aafc-511fe53a394a": {
+    "url": "db://assets/resources/gamePackage/texture/car/car107.png",
+    "value": {}
+  },
+  "3d20fdf5-559d-4414-b7b9-79137c80dbc6": {
+    "url": "db://assets/resources/gamePackage/texture/car/car107Black.png",
+    "value": {}
+  },
+  "daa5aff2-4f4f-4d9a-acfa-b8d845b92aee": {
+    "url": "db://assets/resources/gamePackage/texture/car/car108.png",
+    "value": {}
+  },
+  "c788c3ff-53dc-4cc1-8cfa-71ac1b78ecb0": {
+    "url": "db://assets/resources/gamePackage/texture/car/car108Black.png",
+    "value": {}
+  },
+  "8840189f-007a-427f-b568-66b8af868e39": {
+    "url": "db://assets/resources/gamePackage/texture/car/car109.png",
+    "value": {}
+  },
+  "f170a32e-1132-4e95-a86e-a72927cb5f8b": {
+    "url": "db://assets/resources/gamePackage/texture/car/car109Black.png",
+    "value": {}
+  },
+  "43a24083-1baa-416b-8396-30cf054bb7c8": {
+    "url": "db://assets/resources/gamePackage/texture/car/car110.png",
+    "value": {}
+  },
+  "003a89a3-1ff8-4d94-8c5e-0b501bdc5383": {
+    "url": "db://assets/resources/gamePackage/texture/car/car110Black.png",
+    "value": {}
+  },
+  "439cdbc2-21c5-4dab-865c-cf21b926f0b1": {
+    "url": "db://assets/resources/gamePackage/texture/car/car111.png",
+    "value": {}
+  },
+  "54259d22-6dfc-440e-9b88-4d753da28256": {
+    "url": "db://assets/resources/gamePackage/texture/car/car111Black.png",
+    "value": {}
+  },
+  "1599f21b-7806-4a9a-9e6f-bc1e83bffb82": {
+    "url": "db://assets/resources/gamePackage/texture/car/car112.png",
+    "value": {}
+  },
+  "55df398a-2282-43f2-b80a-537c8ec88eea": {
+    "url": "db://assets/resources/gamePackage/texture/car/car112Black.png",
+    "value": {}
+  },
+  "ce69babd-10c4-4271-b758-aa1228c35d61": {
+    "url": "db://assets/resources/gamePackage/texture/car/car113.png",
+    "value": {}
+  },
+  "0fabc98d-1da2-4016-9282-cab9b1e73e27": {
+    "url": "db://assets/resources/gamePackage/texture/car/car113Black.png",
+    "value": {}
+  },
+  "e92fb452-814d-4698-aafb-0d840c719df5": {
+    "url": "db://assets/resources/gamePackage/texture/car/car114.png",
+    "value": {}
+  },
+  "8e557839-ba3d-4b99-933f-3cfa094207be": {
+    "url": "db://assets/resources/gamePackage/texture/car/car114Black.png",
+    "value": {}
+  },
+  "29219d9a-1808-4bad-bde1-efcc274f1a31": {
+    "url": "db://assets/resources/gamePackage/texture/car/car115.png",
+    "value": {}
+  },
+  "7a2a61a0-9bfb-4a9b-8899-165877af3b0c": {
+    "url": "db://assets/resources/gamePackage/texture/car/car115Black.png",
+    "value": {}
+  },
+  "7f95b470-8fca-445f-87c2-6aa314519f0a": {
+    "url": "db://assets/resources/gamePackage/texture/head/head1.png",
+    "value": {}
+  },
+  "3c920f53-3280-42c9-bd90-59b67ea8dd10": {
+    "url": "db://assets/resources/gamePackage/texture/head/head2.png",
+    "value": {}
+  },
+  "ee2d04d2-fcc8-482a-92a6-9150bd7172b0": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar101.prefab",
+    "value": {}
+  },
+  "25809911-64d0-43d7-9fe7-8fe3f1ab8c70": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar102.prefab",
+    "value": {}
+  },
+  "f4f7084d-bf09-4465-ac2d-776a19153c98": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar103.prefab",
+    "value": {}
+  },
+  "1dfb255d-464a-47b5-b760-bc4fd1ca5c9a": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar104.prefab",
+    "value": {}
+  },
+  "48591116-44b5-4f6e-b0dc-da2687f93bed": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar105.prefab",
+    "value": {}
+  },
+  "8abe86a3-8f9b-4739-bb0f-88c1fc26778c": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar106.prefab",
+    "value": {}
+  },
+  "1060c1d8-003f-404c-9e53-256b14da5f71": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar107.prefab",
+    "value": {}
+  },
+  "27d0827b-33e6-4926-b8ad-3dca6ae25c98": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar108.prefab",
+    "value": {}
+  },
+  "ae38f76b-2bfe-4d5c-a8a2-3dd05546abd0": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar109.prefab",
+    "value": {}
+  },
+  "a4598002-b8f3-4636-96af-36d7236f5584": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar110.prefab",
+    "value": {}
+  },
+  "c7554ddf-8730-491d-a43e-c49844ab377d": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar111.prefab",
+    "value": {}
+  },
+  "2ef1ad06-bdc7-499e-91d8-a8e066102b4e": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar112.prefab",
+    "value": {}
+  },
+  "8a6c3c8e-0d08-4a8c-8ab9-8728ea219b6b": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar113.prefab",
+    "value": {}
+  },
+  "4af806f3-33e0-4723-bb8d-af98d756fa98": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar114.prefab",
+    "value": {}
+  },
+  "5d468016-36d1-4032-9359-ed94aa34b0b9": {
+    "url": "db://assets/resources/prefab/ui/car/uiCar115.prefab",
+    "value": {}
+  },
+  "1d1529b5-a1d9-4ae4-83c2-ea12072c72d2": {
+    "url": "db://assets/resources/prefab/ui/common/flyReward.prefab",
+    "value": {}
+  },
+  "fc2481b9-90db-4a19-8a75-7ae2f35ba23f": {
+    "url": "db://assets/resources/prefab/ui/common/loading.prefab",
+    "value": {}
+  },
+  "c62e46ea-b36b-4112-b338-3047dc46b7b0": {
+    "url": "db://assets/resources/prefab/ui/common/showReward.prefab",
+    "value": {}
+  },
+  "276ff273-fe45-44c5-b081-c221126a2ba9": {
+    "url": "db://assets/resources/prefab/ui/common/tips.prefab",
+    "value": {}
+  },
+  "c7ed0c99-bf84-4090-a01b-421589001a34": {
+    "url": "db://assets/resources/prefab/ui/fight/balance.prefab",
+    "value": {}
+  },
+  "feb7ac19-5724-4c40-8d91-0f9e711dc083": {
+    "url": "db://assets/resources/prefab/ui/fight/clickBox.prefab",
+    "value": {}
+  },
+  "978adcb6-92e3-4262-8c76-5e12e0298ca2": {
+    "url": "db://assets/resources/prefab/ui/fight/fightUI.prefab",
+    "value": {}
+  },
+  "9381e569-fd59-4f45-bd23-2baf993190b9": {
+    "url": "db://assets/resources/prefab/ui/fight/revive.prefab",
+    "value": {}
+  },
+  "f5f83d73-565f-4949-87db-8eb92fca0ef5": {
+    "url": "db://assets/resources/prefab/ui/lottery/lottery.prefab",
+    "value": {}
+  },
+  "86f7316a-4f01-4754-9e05-1479dab41973": {
+    "url": "db://assets/resources/prefab/ui/lottery/lotteryItem.prefab",
+    "value": {}
+  },
+  "7ed8ffdd-e75b-44a6-8d0e-4b5c07e38b70": {
+    "url": "db://assets/resources/prefab/ui/main/invincible.prefab",
+    "value": {}
+  },
+  "6bd85d23-97b7-4d6d-90f8-bdec2d7b3fce": {
+    "url": "db://assets/resources/prefab/ui/main/mainUI.prefab",
+    "value": {}
+  },
+  "779369d8-63f9-40b3-9851-55e707cbb8ae": {
+    "url": "db://assets/resources/prefab/ui/main/onlineDouble.prefab",
+    "value": {}
+  },
+  "0dd889d1-df83-4d02-baf1-816774ed8529": {
+    "url": "db://assets/resources/prefab/ui/main/setting.prefab",
+    "value": {}
+  },
+  "8eec0b56-e58e-41f1-bf0f-2fa136f00a8d": {
+    "url": "db://assets/resources/prefab/ui/main/trial.prefab",
+    "value": {}
+  },
+  "c5827ac9-3491-499b-9482-3cc1177199eb": {
+    "url": "db://assets/resources/prefab/ui/rank/rank.prefab",
+    "value": {}
+  },
+  "b75dca66-4aa6-43e8-b395-832edf52ed8a": {
+    "url": "db://assets/resources/prefab/ui/shop/shop.prefab",
+    "value": {}
+  },
+  "aa58e4cf-d192-438d-b273-2c290476e874": {
+    "url": "db://assets/resources/prefab/ui/shop/shopItem.prefab",
+    "value": {}
+  },
+  "ace6a348-b6ff-45af-a5a4-56088b784c11": {
+    "url": "db://assets/resources/prefab/ui/shop/shopPage.prefab",
+    "value": {}
+  },
+  "b679fc1d-b2d0-45ec-bb05-93b9c8581580": {
+    "url": "db://assets/resources/prefab/ui/signIn/signIn.prefab",
+    "value": {}
+  },
+  "d2b2d003-cfb5-4b69-8666-95af30cb6f9b": {
+    "url": "db://assets/resources/prefab/ui/signIn/signInItem.prefab",
+    "value": {}
+  }
+}

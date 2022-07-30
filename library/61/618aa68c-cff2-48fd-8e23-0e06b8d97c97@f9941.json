@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homeBoxOnline02",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 108,
+      "height": 148
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 108,
+      "height": 148
+    },
+    "rotated": false,
+    "capInsets": [
+      38,
+      34,
+      33,
+      40
+    ],
+    "texture": "618aa68c-cff2-48fd-8e23-0e06b8d97c97@6c48a",
+    "packable": true
+  }
+}

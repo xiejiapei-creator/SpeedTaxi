@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightImgGift",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 2,
+      "width": 377,
+      "height": 275
+    },
+    "offset": {
+      "x": 0,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 377,
+      "height": 277
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c48d31cd-2d92-405e-93a1-d28c67cbb357@6c48a",
+    "packable": true
+  }
+}

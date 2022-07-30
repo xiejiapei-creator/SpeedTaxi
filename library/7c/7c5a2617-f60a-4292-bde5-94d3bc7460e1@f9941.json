@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "setIocnMusic",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 72
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 70,
+      "height": 72
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7c5a2617-f60a-4292-bde5-94d3bc7460e1@6c48a",
+    "packable": true
+  }
+}

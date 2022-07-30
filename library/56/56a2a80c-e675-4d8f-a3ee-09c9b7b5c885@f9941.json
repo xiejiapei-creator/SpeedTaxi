@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "setImg03",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 71,
+      "height": 71
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 71,
+      "height": 71
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "56a2a80c-e675-4d8f-a3ee-09c9b7b5c885@6c48a",
+    "packable": true
+  }
+}

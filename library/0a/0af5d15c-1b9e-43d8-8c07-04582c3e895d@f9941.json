@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "commonIconCoin",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 42,
+      "height": 46
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 42,
+      "height": 46
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "0af5d15c-1b9e-43d8-8c07-04582c3e895d@6c48a",
+    "packable": true
+  }
+}

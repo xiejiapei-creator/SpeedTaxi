@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "commonBtnGray",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 208,
+      "height": 88
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 208,
+      "height": 88
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "005e83b4-1fa6-4591-a495-17073bd114d7@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "signIn",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "天数,奖励类型(1钻石2金币3道具),数量(或者车的ID)\nnumber,number,number\nID,rewardType,amount\n1,2,500\n2,3,9\n3,2,700\n4,2,1000\n5,2,1500\n6,2,2000\n7,3,7"
+}

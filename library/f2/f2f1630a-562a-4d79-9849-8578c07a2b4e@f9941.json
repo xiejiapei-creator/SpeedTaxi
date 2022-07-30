@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homeLogoEn",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 473,
+      "height": 139
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 474,
+      "height": 140
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "f2f1630a-562a-4d79-9849-8578c07a2b4e@6c48a",
+    "packable": true
+  }
+}

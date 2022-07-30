@@ -1,0 +1,114 @@
+{
+  "__version__": "1.0.0",
+  "gizmos-infos": {
+    "is2D": false,
+    "is3DIcon": false,
+    "iconSize": 2,
+    "gridVisible": true,
+    "gridColor": [
+      150,
+      150,
+      150,
+      255
+    ],
+    "isIconGizmo3D": false,
+    "iconGizmoSize": 2,
+    "isGridVisible": true
+  },
+  "camera": {
+    "fov": 45,
+    "far": 10000,
+    "near": 0.01,
+    "color": [
+      48,
+      48,
+      48,
+      255
+    ],
+    "wheelSpeed": 0.01,
+    "wanderSpeed": 10,
+    "enableAcceleration": true,
+    "far2D": 10000,
+    "near2D": 1,
+    "wheelSpeed2D": 6
+  },
+  "camera-infos": {
+    "f46876e4-e81b-4931-b493-6d367be385e7": {
+      "position": {
+        "x": 50,
+        "y": 50,
+        "z": 50
+      },
+      "rotation": {
+        "x": -0.27984814233312133,
+        "y": 0.3647051996310009,
+        "z": 0.11591689595929514,
+        "w": 0.8804762392171493
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "e96d6ae0-6179-4ac3-8969-a9b662fb0e9c": {
+      "position": {
+        "x": 1741.408281769522,
+        "y": 1741.4082817695212,
+        "z": 1741.408281769521
+      },
+      "rotation": {
+        "x": -0.14538409608625455,
+        "y": 0.42262414663885894,
+        "z": 0.068888906443292,
+        "w": 0.8919117734150781
+      },
+      "viewCenter": {
+        "x": -472.05438556406034,
+        "y": 783.5578496418262,
+        "z": -69.83823366443971
+      }
+    },
+    "21472705-eeda-4479-960c-68bca1b49253": {
+      "position": {
+        "x": 920.0099999999998,
+        "y": 440,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0.7071067811865475,
+        "z": 0,
+        "w": 0.7071067811865475
+      },
+      "viewCenter": {
+        "x": 360,
+        "y": 440,
+        "z": 1
+      }
+    }
+  },
+  "camera-uuids": [
+    "e96d6ae0-6179-4ac3-8969-a9b662fb0e9c"
+  ],
+  "float-window": {
+    "position": {
+      "cc": {
+        "Camera": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        },
+        "ParticleSystem": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        }
+      }
+    }
+  }
+}

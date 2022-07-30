@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "setIocnShake",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 94,
+      "height": 67
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 94,
+      "height": 67
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "60eafe84-c64d-47f1-a1c0-2d2fba69fb13@6c48a",
+    "packable": true
+  }
+}

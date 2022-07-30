@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dailyImg03",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 70,
+      "height": 54
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 70,
+      "height": 54
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b3239366-2918-4a4b-9197-b9bf319a07eb@6c48a",
+    "packable": true
+  }
+}
