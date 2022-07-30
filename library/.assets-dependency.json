@@ -404,6 +404,141 @@
     ],
     "/Users/xiejiapei/Documents/3D Game/Car/assets/model/cars/truck/Materials_truck02/silvery.mtl": [
       "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/material/car.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/material/light.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/material/plane.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/loginPackage/loadingCar/TrailModule01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/effect/coin/coin.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/effect/shield/Sphere01.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/effect/tailGas/TrailModule01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/effect/tailLine/TrailModule02.mtl": [
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/plane/Materials_plane01/Material50x50.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi01/uiCar.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi01/car.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi02/carBlue.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi02/uiCarBlue.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi02/carGray.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi02/uiCarGray.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi03/Material #7.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi03/carOrange.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi03/carPurple.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi03/uiCarOrange.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi03/uiCarPurple.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi04.FBX/carRed.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi04.FBX/carYellow.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi04.FBX/uiCarRed.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi04.FBX/uiCarYellow.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi05.FBX/carGreen.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi05.FBX/carRed.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi05.FBX/uiCarGreen.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi05.FBX/uiCarRed.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi06/carGray.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi06/carPurple.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi06/light1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi06/taxi06Gray.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi06/uiCarGray.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi06/uiCarPurple.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi07/carBlack.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi07/carWhite.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi07/uiCarBlack.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi08/carBlack.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi07/uiCarWhite.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi08/carGray.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi08/uiCarBlack.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/Materials_taxi08/uiCarGray.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/truck/Materials_truck02/blue.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/truck/Materials_truck02/pink.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/truck/Materials_truck02/silvery.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
     ]
   },
   "path": {
@@ -523,6 +658,45 @@
     ],
     "/Users/xiejiapei/Documents/3D Game/Car/assets/model/customer/2/man01.FBX@3efb2": [
       "/Users/xiejiapei/Documents/3D Game/Car/assets/model/customer/2/man01.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/road/road05.FBX@bc797": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/road/road03.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/sign/end.FBX@bc797": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/sign/end.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/sign/sign01.FBX@bc797": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/sign/sign.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/sign/sign02.FBX@bc797": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/sign/sign.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/sign/start.FBX@c774a": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/sign/start.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/tree/stone01.FBX@bfae8": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/tree/stone01.png"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/tree/stone02.FBX@a96a6": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/tree/stone02.png"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/tree/tree01.FBX@bfae8": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/tree/trees01.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/tree/tree02.FBX@bfae8": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/tree/trees01.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/taxi01.FBX@baf1c": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/taxi01.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/taxi05.FBX@733e8": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/cars/taxi/taxi05Green.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/customer/1/girl01.fbx@59f96": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/customer/1/girl01.jpg"
+    ],
+    "/Users/xiejiapei/SpeedTaxi/assets/model/customer/2/man01.FBX@3efb2": [
+      "/Users/xiejiapei/SpeedTaxi/assets/model/customer/2/man01.jpg"
     ]
   }
 }

@@ -6,8 +6,8 @@
     "strict": true,
     "types": [
       "./temp/declarations/jsb",
-      "./temp/declarations/cc.env",
       "./temp/declarations/cc.custom-macro",
+      "./temp/declarations/cc.env",
       "./temp/declarations/cc"
     ],
     "paths": {
@@ -15,7 +15,7 @@
         "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
-        "/Users/xiejiapei/Documents/3D Game/Car/assets/*"
+        "/Users/xiejiapei/SpeedTaxi/assets/*"
       ]
     },
     "experimentalDecorators": true,

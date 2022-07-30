@@ -1748,3 +1748,75 @@ at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Reso
     at processTicksAndRejections (internal/process/task_queues.js:93:5)
     at async ModelPreview.executeAnimationOperation (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/model-preview/index.ccc:1:5601)
     at async SceneFacadeManager.executeModelPreviewAnimationOperation (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:29875)
+2022-07-30T11:22:35.532Z - log: [Package] menu@1.0.0 enable
+2022-07-30T11:22:35.536Z - log: [Package] profile@1.0.0 enable
+2022-07-30T11:22:35.545Z - log: [Package] project@1.0.2 enable
+2022-07-30T11:22:35.552Z - log: [Package] messages@1.0.0 enable
+2022-07-30T11:22:35.555Z - log: [Package] program@1.0.0 enable
+2022-07-30T11:22:35.560Z - log: [Package] tester@1.0.0 enable
+2022-07-30T11:22:35.563Z - log: [Package] preferences@1.0.0 enable
+2022-07-30T11:22:35.920Z - log: Setup mods mgr.: 165.135ms
+2022-07-30T11:22:35.921Z - log: Profile changed: engine (modules.includeModules: 2d,3d,animation,audio,base,gfx-webgl,gfx-webgl2,marionette,particle,physics-cannon,primitive,profiler,skeletal-animation,tween,ui)
+2022-07-30T11:22:35.933Z - verbose: [Engine] QuickCompile engine (333ms)
+2022-07-30T11:22:35.934Z - log: [Package] engine@1.0.6 enable
+2022-07-30T11:22:36.511Z - log: [Package] programming@1.0.0 enable
+2022-07-30T11:22:36.796Z - log: [Package] device@1.0.1 enable
+2022-07-30T11:22:36.825Z - log: [Package] ui-kit@1.0.1 enable
+2022-07-30T11:22:36.850Z - log: [Package] engine-extends@1.0.0 enable
+2022-07-30T11:22:36.897Z - log: [Package] asset-db@1.0.0 enable
+2022-07-30T11:22:36.929Z - log: [Package] scene@1.0.0 enable
+2022-07-30T11:22:37.044Z - log: [Package] server@1.0.0 enable
+2022-07-30T11:22:37.069Z - log: [Package] utils@1.0.0 enable
+2022-07-30T11:22:39.226Z - log: [Package] preview@1.0.1 enable
+2022-07-30T11:22:39.256Z - log: [Package] animator@1.0.0 enable
+2022-07-30T11:22:39.900Z - log: [Package] builder@1.3.2 enable
+2022-07-30T11:22:39.930Z - log: [Package] shortcuts@1.0.1 enable
+2022-07-30T11:22:39.960Z - log: [Package] animation-graph@1.0.0 enable
+2022-07-30T11:22:39.985Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-07-30T11:22:40.007Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-07-30T11:22:40.038Z - log: [Package] about@1.0.0 enable
+2022-07-30T11:22:40.065Z - log: [Package] assets@1.0.0 enable
+2022-07-30T11:22:40.094Z - log: [Package] console@1.0.0 enable
+2022-07-30T11:22:40.212Z - log: [Package] extension@3.0.16 enable
+2022-07-30T11:22:40.240Z - log: [Package] hierarchy@1.0.0 enable
+2022-07-30T11:22:40.272Z - log: [Package] inspector@1.0.0 enable
+2022-07-30T11:22:40.303Z - log: [Package] lightmap@1.0.4 enable
+2022-07-30T11:22:40.332Z - log: [Package] node-library@1.0.1 enable
+2022-07-30T11:22:40.357Z - log: [Package] package-asset@1.0.0 enable
+2022-07-30T11:22:40.392Z - log: [Package] process@1.0.0 enable
+2022-07-30T11:22:40.422Z - log: [Package] reference-image@1.0.0 enable
+2022-07-30T11:22:40.438Z - verbose: [AssetDB] Require engine code (747ms)
+2022-07-30T11:22:40.444Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-07-30T11:22:40.468Z - log: [Package] android@1.0.0 enable
+2022-07-30T11:22:40.496Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-07-30T11:22:40.521Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-07-30T11:22:40.547Z - log: [Package] cocos-play@1.0.0 enable
+2022-07-30T11:22:40.575Z - log: [Package] huawei-agc@1.0.0 enable
+2022-07-30T11:22:40.599Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-07-30T11:22:41.274Z - log: [Package] ios@1.0.0 enable
+2022-07-30T11:22:41.300Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-07-30T11:22:41.326Z - log: [Package] link-sure@1.0.0 enable
+2022-07-30T11:22:41.349Z - log: [Package] linux@1.0.0 enable
+2022-07-30T11:22:41.371Z - log: [Package] mac@1.0.0 enable
+2022-07-30T11:22:41.452Z - log: [Package] native@1.0.0 enable
+2022-07-30T11:22:41.479Z - log: [Package] ohos@1.0.0 enable
+2022-07-30T11:22:41.506Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-07-30T11:22:41.533Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-07-30T11:22:41.555Z - log: [Package] qtt@1.0.0 enable
+2022-07-30T11:22:41.583Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-07-30T11:22:41.618Z - log: [Package] web-desktop@1.0.0 enable
+2022-07-30T11:22:41.647Z - log: [Package] web-mobile@1.0.0 enable
+2022-07-30T11:22:41.679Z - log: [Package] wechatgame@1.0.1 enable
+2022-07-30T11:22:41.704Z - log: [Package] windows@1.0.0 enable
+2022-07-30T11:22:41.727Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-07-30T11:22:41.894Z - log: [Package] cocos-service@3.0.3 enable
+2022-07-30T11:22:41.927Z - log: [Package] importer@1.0.0 enable
+2022-07-30T11:22:42.102Z - log: [Im-plugin] Check im-plugin version.
+2022-07-30T11:22:42.110Z - log: [Package] im-plugin@3.0.8 enable
+2022-07-30T11:22:42.777Z - log: [Im-plugin] No online info of im-plugin.
+2022-07-30T11:22:48.154Z - verbose: [Scene] Require engine code (1ms)
+2022-07-30T11:22:48.154Z - verbose: [Scene] Startup engine (0ms)
+2022-07-30T11:22:48.186Z - log: [Scene] Cocos Creator v3.5.2
+2022-07-30T11:22:48.373Z - verbose: [Scene] Open engine (219ms)
+2022-07-30T11:22:48.373Z - verbose: [Scene] Configure engine (0ms)
+2022-07-30T11:22:48.274Z - info: [Scene] Forward render pipeline initialized.
