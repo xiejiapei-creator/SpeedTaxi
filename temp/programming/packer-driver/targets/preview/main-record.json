@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 6964.99845802784,
+      "mTimestamp": 6712.980124950409,
       "chunkId": "a54cb34760bec8532b019327fcd8ebfc4159351f",
       "imports": [
         {
@@ -325,7 +325,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 8645.260208010674,
+      "mTimestamp": 6891.930124998093,
       "chunkId": "eb5b531414310d6308b558f16702c0f776ae78d4",
       "imports": [
         {
@@ -1752,7 +1752,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1659180156021,
+      "mTimestamp": 1659407260305,
       "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
       "imports": [],
       "type": "esm",
@@ -23186,10 +23186,10 @@
     },
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts": {
       "mTimestamp": {
-        "mtime": 1658134686649.79,
+        "mtime": 1659190603422.3228,
         "uuid": "dbe36cbe-2f00-4618-82fc-23cec5dcefbf"
       },
-      "chunkId": "a6e9feb4d3dab95647e048ff4047cb3a8223f8c9",
+      "chunkId": "07e55032966b5330885c010cf4adb9ab54a47bf0",
       "imports": [
         {
           "value": "cc"
@@ -23208,7 +23208,7 @@
     },
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts": {
       "mTimestamp": {
-        "mtime": 1658134686644.216,
+        "mtime": 1659222474024.876,
         "uuid": "5a305cd5-064e-4650-8773-24b6cec15f87"
       },
       "chunkId": "7020d897b639b2f71f786f0645a3fa2c94258fae",
@@ -23224,11 +23224,11 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 11,
+              "line": 1,
               "column": 27
             },
             "end": {
-              "line": 11,
+              "line": 1,
               "column": 31
             }
           }
@@ -23238,11 +23238,11 @@
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 12,
+              "line": 2,
               "column": 35
             },
             "end": {
-              "line": 12,
+              "line": 2,
               "column": 57
             }
           }
@@ -23282,10 +23282,10 @@
     },
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts": {
       "mTimestamp": {
-        "mtime": 1658134686638.838,
+        "mtime": 1659222114737.487,
         "uuid": "10a2583a-4c33-4fd8-8202-745e07b68a71"
       },
-      "chunkId": "aebdb36070d085b13866cba4eacad252ef37421b",
+      "chunkId": "f3fa30dae47e730d169abc74f84b4e66230fa0d4",
       "imports": [
         {
           "value": "cc"
@@ -23294,11 +23294,11 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 11,
+              "line": 1,
               "column": 34
             },
             "end": {
-              "line": 11,
+              "line": 1,
               "column": 38
             }
           }
@@ -23578,7 +23578,7 @@
     },
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts": {
       "mTimestamp": {
-        "mtime": 1658134686652.093,
+        "mtime": 1659227676602.198,
         "uuid": "0ab971f9-d632-402c-9afa-68ef60ccd1a0"
       },
       "chunkId": "b15b26a4a77cd2aeb572581f8b0522a66dd83213",
@@ -23607,11 +23607,11 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 12,
+              "line": 2,
               "column": 72
             },
             "end": {
-              "line": 12,
+              "line": 2,
               "column": 76
             }
           }
@@ -23621,11 +23621,11 @@
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 14,
+              "line": 4,
               "column": 20
             },
             "end": {
-              "line": 14,
+              "line": 4,
               "column": 27
             }
           }
@@ -23635,11 +23635,11 @@
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
-              "line": 16,
+              "line": 6,
               "column": 23
             },
             "end": {
-              "line": 16,
+              "line": 6,
               "column": 33
             }
           }
@@ -23649,11 +23649,11 @@
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
-              "line": 17,
+              "line": 7,
               "column": 26
             },
             "end": {
-              "line": 17,
+              "line": 7,
               "column": 39
             }
           }
@@ -23663,11 +23663,11 @@
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
-              "line": 18,
+              "line": 8,
               "column": 28
             },
             "end": {
-              "line": 18,
+              "line": 8,
               "column": 54
             }
           }
@@ -23677,11 +23677,11 @@
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
-              "line": 19,
+              "line": 9,
               "column": 29
             },
             "end": {
-              "line": 19,
+              "line": 9,
               "column": 56
             }
           }
@@ -23691,11 +23691,11 @@
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
-              "line": 20,
+              "line": 10,
               "column": 28
             },
             "end": {
-              "line": 20,
+              "line": 10,
               "column": 54
             }
           }
@@ -23705,11 +23705,11 @@
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
-              "line": 21,
+              "line": 11,
               "column": 27
             },
             "end": {
-              "line": 21,
+              "line": 11,
               "column": 52
             }
           }
@@ -23719,11 +23719,11 @@
           "resolved": "__unresolved_8",
           "loc": {
             "start": {
-              "line": 22,
+              "line": 12,
               "column": 25
             },
             "end": {
-              "line": 22,
+              "line": 12,
               "column": 48
             }
           }
@@ -23733,11 +23733,11 @@
           "resolved": "__unresolved_9",
           "loc": {
             "start": {
-              "line": 23,
+              "line": 13,
               "column": 28
             },
             "end": {
-              "line": 23,
+              "line": 13,
               "column": 54
             }
           }
@@ -23747,11 +23747,11 @@
           "resolved": "__unresolved_10",
           "loc": {
             "start": {
-              "line": 24,
+              "line": 14,
               "column": 31
             },
             "end": {
-              "line": 24,
+              "line": 14,
               "column": 49
             }
           }
@@ -23903,7 +23903,7 @@
     },
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts": {
       "mTimestamp": {
-        "mtime": 1658134686646.9407,
+        "mtime": 1659193095974.719,
         "uuid": "953facdc-25bd-4bb8-9943-4259050a4146"
       },
       "chunkId": "1fd3d41da894f2a6fe21a25188947d53f4923c2e",
@@ -23919,11 +23919,11 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 11,
+              "line": 1,
               "column": 63
             },
             "end": {
-              "line": 11,
+              "line": 1,
               "column": 67
             }
           }
@@ -23933,11 +23933,11 @@
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 12,
+              "line": 2,
               "column": 31
             },
             "end": {
-              "line": 12,
+              "line": 2,
               "column": 49
             }
           }
@@ -23947,11 +23947,11 @@
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
-              "line": 13,
+              "line": 3,
               "column": 29
             },
             "end": {
-              "line": 13,
+              "line": 3,
               "column": 56
             }
           }
@@ -24935,7 +24935,7 @@
     },
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts": {
       "mTimestamp": {
-        "mtime": 1658134686648.3105,
+        "mtime": 1659227173371.748,
         "uuid": "273ad915-2d18-440a-80e3-7be9c2741b84"
       },
       "chunkId": "cfbf7895c0805edcdd170a9c246ebeb5fa53eaff",
@@ -24951,11 +24951,11 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 11,
+              "line": 1,
               "column": 69
             },
             "end": {
-              "line": 11,
+              "line": 1,
               "column": 73
             }
           }
@@ -24965,11 +24965,11 @@
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 12,
+              "line": 2,
               "column": 59
             },
             "end": {
-              "line": 12,
+              "line": 2,
               "column": 72
             }
           }
@@ -24979,11 +24979,11 @@
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
-              "line": 13,
+              "line": 3,
               "column": 31
             },
             "end": {
-              "line": 13,
+              "line": 3,
               "column": 49
             }
           }
@@ -24993,11 +24993,11 @@
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
-              "line": 14,
+              "line": 4,
               "column": 29
             },
             "end": {
-              "line": 14,
+              "line": 4,
               "column": 56
             }
           }
@@ -25007,11 +25007,11 @@
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
-              "line": 15,
+              "line": 5,
               "column": 28
             },
             "end": {
-              "line": 15,
+              "line": 5,
               "column": 54
             }
           }
@@ -25021,11 +25021,11 @@
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
-              "line": 16,
+              "line": 6,
               "column": 28
             },
             "end": {
-              "line": 16,
+              "line": 6,
               "column": 54
             }
           }
@@ -25035,11 +25035,11 @@
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
-              "line": 17,
+              "line": 7,
               "column": 21
             },
             "end": {
-              "line": 17,
+              "line": 7,
               "column": 65
             }
           }
@@ -26264,10 +26264,10 @@
     },
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts": {
       "mTimestamp": {
-        "mtime": 1658134686641.0022,
+        "mtime": 1659222442762.275,
         "uuid": "10a09a26-dec6-43f2-ad87-e744cbc0b21c"
       },
-      "chunkId": "c789b7eccfaacc989bac8fbb98f01494c0f5fa36",
+      "chunkId": "2ee324645c5c209452dbff26273056a02fc8970e",
       "imports": [
         {
           "value": "cc"
@@ -26276,11 +26276,11 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 11,
+              "line": 1,
               "column": 39
             },
             "end": {
-              "line": 11,
+              "line": 1,
               "column": 43
             }
           }

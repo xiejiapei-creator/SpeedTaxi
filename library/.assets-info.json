@@ -13748,7 +13748,7 @@
     "missing": false
   },
   "/Users/xiejiapei/SpeedTaxi/assets/model": {
-    "time": 1658134686890.2378,
+    "time": 1659367738548.225,
     "uuid": "05eee71f-5473-421c-a99b-c52178c43fb7",
     "missing": false
   },
@@ -14408,7 +14408,7 @@
     "missing": false
   },
   "/Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts": {
-    "time": 1658134686652.093,
+    "time": 1659227676602.198,
     "uuid": "0ab971f9-d632-402c-9afa-68ef60ccd1a0",
     "missing": false
   },
@@ -14423,7 +14423,7 @@
     "missing": false
   },
   "/Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts": {
-    "time": 1658134686649.79,
+    "time": 1659190603422.3228,
     "uuid": "dbe36cbe-2f00-4618-82fc-23cec5dcefbf",
     "missing": false
   },
@@ -14433,7 +14433,7 @@
     "missing": false
   },
   "/Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts": {
-    "time": 1658134686648.3105,
+    "time": 1659227173371.748,
     "uuid": "273ad915-2d18-440a-80e3-7be9c2741b84",
     "missing": false
   },
@@ -14443,7 +14443,7 @@
     "missing": false
   },
   "/Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts": {
-    "time": 1658134686646.9407,
+    "time": 1659193095974.719,
     "uuid": "953facdc-25bd-4bb8-9943-4259050a4146",
     "missing": false
   },
@@ -14458,7 +14458,7 @@
     "missing": false
   },
   "/Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts": {
-    "time": 1658134686644.216,
+    "time": 1659222474024.876,
     "uuid": "5a305cd5-064e-4650-8773-24b6cec15f87",
     "missing": false
   },
@@ -14478,7 +14478,7 @@
     "missing": false
   },
   "/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts": {
-    "time": 1658134686641.0022,
+    "time": 1659222442762.275,
     "uuid": "10a09a26-dec6-43f2-ad87-e744cbc0b21c",
     "missing": false
   },
@@ -14493,7 +14493,7 @@
     "missing": false
   },
   "/Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts": {
-    "time": 1658134686638.838,
+    "time": 1659222114737.487,
     "uuid": "10a2583a-4c33-4fd8-8202-745e07b68a71",
     "missing": false
   },

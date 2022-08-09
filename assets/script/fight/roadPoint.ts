@@ -1,13 +1,3 @@
-// Learn cc.Class:
-//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/class.html
-//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/class.html
-// Learn Attribute:
-//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/reference/attributes.html
-//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/reference/attributes.html
-// Learn life-cycle callbacks:
-//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
-//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
-
 import { _decorator, Component, Node, Vec3, Enum, macro } from "cc";
 import { fightConstants } from "./fightConstants";
 import { resourceUtil } from "../framework/resourceUtil";
@@ -33,6 +23,7 @@ Enum(ROAD_MOVE_TYPE)
 
 @ccclass("roadPoint")
 export class roadPoint extends Component {
+    // 除结束点以外共用属性
     @property({displayName: '类型', type: ROAD_POINT_TYPE, displayOrder: 1})
     type: ROAD_POINT_TYPE = ROAD_POINT_TYPE.普通节点;
 
@@ -47,11 +38,13 @@ export class roadPoint extends Component {
     }})
     clockwise: boolean = false;
 
+    // 顾客方向
     @property({displayName: '顾客方向', displayOrder: 4, visible:  function (this: roadPoint){
         return this.type === fightConstants.ROAD_POINT_TYPE.GREETING || this.type === fightConstants.ROAD_POINT_TYPE.PLATFORM;
     }})
     direction: Vec3 = new Vec3();
 
+    // AI车辆
     @property({displayName: '延迟生成/秒', displayOrder: 5, visible:  function (this: roadPoint){
         return this.type === fightConstants.ROAD_POINT_TYPE.AI_START;
     }})

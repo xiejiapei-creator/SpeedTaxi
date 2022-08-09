@@ -1820,3 +1820,679 @@ at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Reso
 2022-07-30T11:22:48.373Z - verbose: [Scene] Open engine (219ms)
 2022-07-30T11:22:48.373Z - verbose: [Scene] Configure engine (0ms)
 2022-07-30T11:22:48.274Z - info: [Scene] Forward render pipeline initialized.
+2022-07-30T14:28:19.172Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts: Leading decorators must be attached to a class declaration. (116:0)
+
+  114 |
+  115 | @property({displayName: '类型', type: ROAD_POINT_TYPE, displayOrder: 1})
+> 116 | type: ROAD_POINT_TYPE = ROAD_POINT_TYPE.普通节点;
+      | ^
+  117 |
+  118 | @property({displayName: '下一站', type: Node, displayOrder: 2})
+  119 | next: Node | null = null;.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts: Leading decorators must be attached to a class declaration. (116:0)
+
+  114 |
+  115 | @property({displayName: '类型', type: ROAD_POINT_TYPE, displayOrder: 1})
+> 116 | type: ROAD_POINT_TYPE = ROAD_POINT_TYPE.普通节点;
+      | ^
+  117 |
+  118 | @property({displayName: '下一站', type: Node, displayOrder: 2})
+  119 | next: Node | null = null;.  
+| ^  
+117 |  
+118 | @property({displayName: '下一站', type: Node, displayOrder: 2})  
+119 | next: Node | null = null;.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-30T14:28:19.246Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts: Leading decorators must be attached to a class declaration. (116:0)
+
+  114 |
+  115 | @property({displayName: '类型', type: ROAD_POINT_TYPE, displayOrder: 1})
+> 116 | type: ROAD_POINT_TYPE = ROAD_POINT_TYPE.普通节点;
+      | ^
+  117 |
+  118 | @property({displayName: '下一站', type: Node, displayOrder: 2})
+  119 | next: Node | null = null;.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts: Leading decorators must be attached to a class declaration. (116:0)
+
+  114 |
+  115 | @property({displayName: '类型', type: ROAD_POINT_TYPE, displayOrder: 1})
+> 116 | type: ROAD_POINT_TYPE = ROAD_POINT_TYPE.普通节点;
+      | ^
+  117 |
+  118 | @property({displayName: '下一站', type: Node, displayOrder: 2})
+  119 | next: Node | null = null;.  
+| ^  
+117 |  
+118 | @property({displayName: '下一站', type: Node, displayOrder: 2})  
+119 | next: Node | null = null;.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-30T14:28:19.261Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/34/3492c5d752c5b36c7098c06ba37f14d1954618ce.js 解析出模块 __unresolved_3。
+    at ExecutorSystem._throwUnresolved (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:145:15)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:94:21)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/editor/chunks/fc/fc67dc02196408062addc9e72df38cff56825069.js:13:13
+    at async Object.execute (file:///Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/editor/chunks/fc/fc67dc02196408062addc9e72df38cff56825069.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at async Executor.reload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/34/3492c5d752c5b36c7098c06ba37f14d1954618ce.js 解析出模块 __unresolved_3。
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/editor/chunks/fc/fc67dc02196408062addc9e72df38cff56825069.js:13:13
+    at async Object.execute (file:///Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/editor/chunks/fc/fc67dc02196408062addc9e72df38cff56825069.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at async Executor.reload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:130:9)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async file:///Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/editor/chunks/fc/fc67dc02196408062addc9e72df38cff56825069.js:13:13
+2022-07-30T14:28:19.262Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/be/be06d74c0f21a09a6e75d1c3402cfc96640d623a.js 解析出模块 __unresolved_1。
+    at ExecutorSystem._throwUnresolved (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:145:15)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:94:21)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/be/be06d74c0f21a09a6e75d1c3402cfc96640d623a.js 解析出模块 __unresolved_1。
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async Promise.all (index 2)
+2022-07-30T22:33:53.514Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.  
+|                         ^  
+77 |     const objHandler = this.handle[eventName];  
+78 |     const args = [];  
+79 |     for (let i = 1; i < arguments.length; i++) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-30T22:33:53.600Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.  
+|                         ^  
+77 |     const objHandler = this.handle[eventName];  
+78 |     const args = [];  
+79 |     for (let i = 1; i < arguments.length; i++) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-30T22:39:43.560Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.  
+|                         ^  
+77 |     const objHandler = this.handle[eventName];  
+78 |     const args = [];  
+79 |     for (let i = 1; i < arguments.length; i++) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-30T22:39:43.673Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.  
+|                         ^  
+77 |     const objHandler = this.handle[eventName];  
+78 |     const args = [];  
+79 |     for (let i = 1; i < arguments.length; i++) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-30T22:46:11.428Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.  
+|                         ^  
+77 |     const objHandler = this.handle[eventName];  
+78 |     const args = [];  
+79 |     for (let i = 1; i < arguments.length; i++) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-30T22:46:11.500Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.  
+|                         ^  
+77 |     const objHandler = this.handle[eventName];  
+78 |     const args = [];  
+79 |     for (let i = 1; i < arguments.length; i++) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-30T22:58:54.359Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.  
+|                         ^  
+77 |     const objHandler = this.handle[eventName];  
+78 |     const args = [];  
+79 |     for (let i = 1; i < arguments.length; i++) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-30T22:58:54.447Z - error: [Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.[Programming] 无法加载模块 file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts ：SyntaxError: /file:/Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts: Did not expect a type annotation here. (76:24)
+
+  74 |
+  75 |
+> 76 | dispatchEvent (eventName: string) {
+     |                         ^
+  77 |     const objHandler = this.handle[eventName];
+  78 |     const args = [];
+  79 |     for (let i = 1; i < arguments.length; i++) {.  
+|                         ^  
+77 |     const objHandler = this.handle[eventName];  
+78 |     const args = [];  
+79 |     for (let i = 1; i < arguments.length; i++) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-07-31T01:35:01.405Z - warn: Metrics: no valid info
+2022-08-01T15:17:43.857Z - log: [Package] menu@1.0.0 enable
+2022-08-01T15:17:43.859Z - log: [Package] profile@1.0.0 enable
+2022-08-01T15:17:43.867Z - log: [Package] project@1.0.2 enable
+2022-08-01T15:17:43.870Z - log: [Package] messages@1.0.0 enable
+2022-08-01T15:17:43.873Z - log: [Package] program@1.0.0 enable
+2022-08-01T15:17:43.877Z - log: [Package] tester@1.0.0 enable
+2022-08-01T15:17:43.880Z - log: [Package] preferences@1.0.0 enable
+2022-08-01T15:17:44.237Z - log: Setup mods mgr.: 155.103ms
+2022-08-01T15:17:44.239Z - log: Profile changed: engine (modules.includeModules: 2d,3d,animation,audio,base,gfx-webgl,gfx-webgl2,marionette,particle,physics-cannon,primitive,profiler,skeletal-animation,tween,ui)
+2022-08-01T15:17:44.253Z - verbose: [Engine] QuickCompile engine (336ms)
+2022-08-01T15:17:44.255Z - log: [Package] engine@1.0.6 enable
+2022-08-01T15:17:44.824Z - log: [Package] programming@1.0.0 enable
+2022-08-01T15:17:45.101Z - log: [Package] device@1.0.1 enable
+2022-08-01T15:17:45.130Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-01T15:17:45.152Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-01T15:17:45.198Z - log: [Package] asset-db@1.0.0 enable
+2022-08-01T15:17:45.231Z - log: [Package] scene@1.0.0 enable
+2022-08-01T15:17:45.339Z - log: [Package] server@1.0.0 enable
+2022-08-01T15:17:45.365Z - log: [Package] utils@1.0.0 enable
+2022-08-01T15:17:47.509Z - log: [Package] preview@1.0.1 enable
+2022-08-01T15:17:47.537Z - log: [Package] animator@1.0.0 enable
+2022-08-01T15:17:48.147Z - log: [Package] builder@1.3.2 enable
+2022-08-01T15:17:48.178Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-01T15:17:48.207Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-01T15:17:48.229Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-01T15:17:48.255Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-01T15:17:48.287Z - log: [Package] about@1.0.0 enable
+2022-08-01T15:17:48.316Z - log: [Package] assets@1.0.0 enable
+2022-08-01T15:17:48.345Z - log: [Package] console@1.0.0 enable
+2022-08-01T15:17:48.458Z - log: [Package] extension@3.0.16 enable
+2022-08-01T15:17:48.487Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-01T15:17:48.519Z - log: [Package] inspector@1.0.0 enable
+2022-08-01T15:17:48.550Z - log: [Package] lightmap@1.0.4 enable
+2022-08-01T15:17:48.582Z - log: [Package] node-library@1.0.1 enable
+2022-08-01T15:17:48.609Z - log: [Package] package-asset@1.0.0 enable
+2022-08-01T15:17:48.612Z - verbose: [AssetDB] Require engine code (754ms)
+2022-08-01T15:17:48.642Z - log: [Package] process@1.0.0 enable
+2022-08-01T15:17:48.673Z - log: [Package] reference-image@1.0.0 enable
+2022-08-01T15:17:48.695Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-01T15:17:48.721Z - log: [Package] android@1.0.0 enable
+2022-08-01T15:17:48.749Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-01T15:17:48.776Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-01T15:17:48.803Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-01T15:17:48.831Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-01T15:17:48.856Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-01T15:17:50.473Z - log: [Package] ios@1.0.0 enable
+2022-08-01T15:17:50.498Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-01T15:17:50.523Z - log: [Package] link-sure@1.0.0 enable
+2022-08-01T15:17:50.550Z - log: [Package] linux@1.0.0 enable
+2022-08-01T15:17:50.576Z - log: [Package] mac@1.0.0 enable
+2022-08-01T15:17:50.642Z - log: [Package] native@1.0.0 enable
+2022-08-01T15:17:50.670Z - log: [Package] ohos@1.0.0 enable
+2022-08-01T15:17:50.693Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-01T15:17:50.719Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-01T15:17:50.746Z - log: [Package] qtt@1.0.0 enable
+2022-08-01T15:17:50.770Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-01T15:17:50.803Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-01T15:17:50.836Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-01T15:17:50.869Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-01T15:17:50.892Z - log: [Package] windows@1.0.0 enable
+2022-08-01T15:17:50.917Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-01T15:17:51.085Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-01T15:17:51.120Z - log: [Package] importer@1.0.0 enable
+2022-08-01T15:17:51.298Z - log: [Im-plugin] Check im-plugin version.
+2022-08-01T15:17:51.306Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-01T15:17:52.003Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-01T15:17:53.419Z - verbose: [Scene] Require engine code (0ms)
+2022-08-01T15:17:53.420Z - verbose: [Scene] Startup engine (1ms)
+2022-08-01T15:17:53.442Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-01T15:17:53.641Z - verbose: [Scene] Open engine (221ms)
+2022-08-01T15:17:53.641Z - verbose: [Scene] Configure engine (0ms)
+2022-08-01T15:17:53.540Z - info: [Scene] Forward render pipeline initialized.
+2022-08-01T15:17:57.024Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/import-map-project'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/import-map-project'
+2022-08-01T15:17:57.099Z - error: ENOENT: no such file or directory, stat '/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/preview/external/_commonjsHelpers-9cedf210.js.js'Error: ENOENT: no such file or directory, stat '/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/preview/external/_commonjsHelpers-9cedf210.js.js'
+2022-08-01T15:17:57.099Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/cce/internal/x/cc.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/cce/internal/x/cc.js'
+2022-08-01T15:17:57.103Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/cce/internal/x/prerequisite-imports.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/cce/internal/x/prerequisite-imports.js'
+2022-08-01T15:17:57.103Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/migrate-canvas.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/migrate-canvas.js'
+2022-08-01T15:17:57.104Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/arrow.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/arrow.js'
+2022-08-01T15:17:57.105Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/characterRigid.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/characterRigid.js'
+2022-08-01T15:17:57.106Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/colliderItem.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/colliderItem.js'
+2022-08-01T15:17:57.107Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/boss.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/boss.js'
+2022-08-01T15:17:57.107Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/gameCamera.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/gameCamera.js'
+2022-08-01T15:17:57.108Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/gameManager.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/gameManager.js'
+2022-08-01T15:17:57.109Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/mapManager.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/mapManager.js'
+2022-08-01T15:17:57.112Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monster.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monster.js'
+2022-08-01T15:17:57.113Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterModel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterModel.js'
+2022-08-01T15:17:57.114Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/dispersion.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/dispersion.js'
+2022-08-01T15:17:57.115Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/dispersionSurround.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/dispersionSurround.js'
+2022-08-01T15:17:57.116Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/energyBall.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/energyBall.js'
+2022-08-01T15:17:57.117Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/fireBall.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/fireBall.js'
+2022-08-01T15:17:57.118Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/fireBallBig.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/fireBallBig.js'
+2022-08-01T15:17:57.118Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/jetFires.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/jetFires.js'
+2022-08-01T15:17:57.119Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/tornado.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/tornado.js'
+2022-08-01T15:17:57.119Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/laser.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkill/laser.js'
+2022-08-01T15:17:57.125Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkillCollider.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/monsterSkillCollider.js'
+2022-08-01T15:17:57.132Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/player.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/player.js'
+2022-08-01T15:17:57.133Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/playerModel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/playerModel.js'
+2022-08-01T15:17:57.133Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/reward.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/reward.js'
+2022-08-01T15:17:57.136Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/verticalRaycast.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/verticalRaycast.js'
+2022-08-01T15:17:57.137Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/test.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/test.js'
+2022-08-01T15:17:57.138Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/warningSkill/warningLine.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/warningSkill/warningLine.js'
+2022-08-01T15:17:57.139Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/warningSkill/warningCircle.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/warningSkill/warningCircle.js'
+2022-08-01T15:17:57.139Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/warningSkill/warningStrip.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/fight/warningSkill/warningStrip.js'
+2022-08-01T15:17:57.141Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/audioManager.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/audioManager.js'
+2022-08-01T15:17:57.142Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/constant.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/constant.js'
+2022-08-01T15:17:57.143Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/clientEvent.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/clientEvent.js'
+2022-08-01T15:17:57.143Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/csvManager.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/csvManager.js'
+2022-08-01T15:17:57.145Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/effectManager.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/effectManager.js'
+2022-08-01T15:17:57.145Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/localConfig.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/localConfig.js'
+2022-08-01T15:17:57.145Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/lodash.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/lodash.js'
+2022-08-01T15:17:57.146Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/playerData.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/playerData.js'
+2022-08-01T15:17:57.147Z - error: ENOENT: no such file or directory, stat '/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/preview/external/%40cocos/ammo.js.js'Error: ENOENT: no such file or directory, stat '/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/preview/external/%40cocos/ammo.js.js'
+2022-08-01T15:17:57.147Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/poolManager.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/poolManager.js'
+2022-08-01T15:17:57.148Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/resourceUtil.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/resourceUtil.js'
+2022-08-01T15:17:57.149Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/storageManager.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/storageManager.js'
+2022-08-01T15:17:57.150Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/uiManager.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/uiManager.js'
+2022-08-01T15:17:57.150Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/util.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/util.js'
+2022-08-01T15:17:57.151Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/lib/cocosAnalytics.min.proxy.js@63cjs&original=.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/lib/cocosAnalytics.min.proxy.js@63cjs&original=.js'
+2022-08-01T15:17:57.152Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/main.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/main.js'
+2022-08-01T15:17:57.153Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/common/fightTip.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/common/fightTip.js'
+2022-08-01T15:17:57.154Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/back/backPanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/back/backPanel.js'
+2022-08-01T15:17:57.155Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/sdkUtil.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/framework/sdkUtil.js'
+2022-08-01T15:17:57.155Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/debug/debugSkillItem.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/debug/debugSkillItem.js'
+2022-08-01T15:17:57.156Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/debug/debugLevelItem.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/debug/debugLevelItem.js'
+2022-08-01T15:17:57.157Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/common/tips.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/common/tips.js'
+2022-08-01T15:17:57.157Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/fight/fightPanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/fight/fightPanel.js'
+2022-08-01T15:17:57.158Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/debug/debugPanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/debug/debugPanel.js'
+2022-08-01T15:17:57.159Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/fight/bossBloodBar.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/fight/bossBloodBar.js'
+2022-08-01T15:17:57.160Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/fight/monsterBloodBar.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/fight/monsterBloodBar.js'
+2022-08-01T15:17:57.161Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/fight/playerBloodBar.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/fight/playerBloodBar.js'
+2022-08-01T15:17:57.161Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/home/homePanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/home/homePanel.js'
+2022-08-01T15:17:57.162Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/loading/loadingPanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/loading/loadingPanel.js'
+2022-08-01T15:17:57.163Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/pause/pausePanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/pause/pausePanel.js'
+2022-08-01T15:17:57.163Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/pause/skillIcon.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/pause/skillIcon.js'
+2022-08-01T15:17:57.164Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/revive/revivePanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/revive/revivePanel.js'
+2022-08-01T15:17:57.165Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/settlement/settlementPanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/settlement/settlementPanel.js'
+2022-08-01T15:17:57.165Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/setting/settingPanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/setting/settingPanel.js'
+2022-08-01T15:17:57.166Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/pause/skillList.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/pause/skillList.js'
+2022-08-01T15:17:57.167Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/shopPanel/shopPanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/shopPanel/shopPanel.js'
+2022-08-01T15:17:57.168Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/shopPanel/shopItem.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/shopPanel/shopItem.js'
+2022-08-01T15:17:57.169Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/skill/skillItem.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/skill/skillItem.js'
+2022-08-01T15:17:57.169Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/utils/camera.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/utils/camera.js'
+2022-08-01T15:17:57.170Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/skill/skillPanel.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/ui/skill/skillPanel.js'
+2022-08-01T15:17:57.171Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/utils/joystick.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/utils/joystick.js'
+2022-08-01T15:17:57.171Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/cce/internal/code-quality/cr.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/cce/internal/code-quality/cr.js'
+2022-08-01T15:17:57.172Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/cce/internal/ml/cjs-loader.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/cce/internal/ml/cjs-loader.js'
+2022-08-01T15:17:57.173Z - error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/lib/cocosAnalytics.min.js'Error: ENOENT: no such file or directory, stat '/Users/xiejiapei/SpeedTaxi/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/script/lib/cocosAnalytics.min.js'
+2022-08-01T15:17:58.036Z - error: [Preview]load http://localhost:7456/assets/resources/index.js failed
+2022-08-01T15:17:58.044Z - error: [Preview]load virtual:///prerequisite-imports/resources failed
+2022-08-01T15:17:58.046Z - error: [Preview]Error loading virtual:///prerequisite-imports/resources (SystemJS Error#3 https://git.io/JvFET#3)
+2022-08-01T15:17:58.046Z - error: [Preview]@http://localhost:7456/scripting/systemjs/system.js:624:21
+2022-08-01T15:17:58.046Z - error: [Preview]Error loading virtual:///prerequisite-imports/resources (SystemJS Error#3 https://git.io/JvFET#3)
+2022-08-01T15:17:58.046Z - error: [Preview]@http://localhost:7456/scripting/systemjs/system.js:624:21
+2022-08-01T15:18:05.270Z - error: [Preview]load http://localhost:7456/assets/main/index.js failed
+2022-08-01T15:18:05.279Z - error: [Preview]load virtual:///prerequisite-imports/main failed
+2022-08-01T15:18:05.281Z - error: [Preview]Error loading virtual:///prerequisite-imports/main (SystemJS Error#3 https://git.io/JvFET#3)
+2022-08-01T15:18:05.282Z - error: [Preview]@http://localhost:7456/scripting/systemjs/system.js:624:21
+2022-08-01T15:18:05.282Z - error: [Preview]Error loading virtual:///prerequisite-imports/main (SystemJS Error#3 https://git.io/JvFET#3)
+2022-08-01T15:18:05.282Z - error: [Preview]@http://localhost:7456/scripting/systemjs/system.js:624:21
+2022-08-01T15:24:36.321Z - warn: Metrics: no valid info
+2022-08-01T15:27:09.759Z - log: [Package] menu@1.0.0 enable
+2022-08-01T15:27:09.761Z - log: [Package] profile@1.0.0 enable
+2022-08-01T15:27:09.768Z - log: [Package] project@1.0.2 enable
+2022-08-01T15:27:09.772Z - log: [Package] messages@1.0.0 enable
+2022-08-01T15:27:09.774Z - log: [Package] program@1.0.0 enable
+2022-08-01T15:27:09.778Z - log: [Package] tester@1.0.0 enable
+2022-08-01T15:27:09.781Z - log: [Package] preferences@1.0.0 enable
+2022-08-01T15:27:10.101Z - log: Setup mods mgr.: 153.918ms
+2022-08-01T15:27:10.102Z - log: Profile changed: engine (modules.includeModules: 2d,3d,animation,audio,base,gfx-webgl,gfx-webgl2,marionette,particle,physics-cannon,primitive,profiler,skeletal-animation,tween,ui)
+2022-08-01T15:27:10.113Z - verbose: [Engine] QuickCompile engine (301ms)
+2022-08-01T15:27:10.115Z - log: [Package] engine@1.0.6 enable
+2022-08-01T15:27:10.669Z - log: [Package] programming@1.0.0 enable
+2022-08-01T15:27:10.937Z - log: [Package] device@1.0.1 enable
+2022-08-01T15:27:10.966Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-01T15:27:10.990Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-01T15:27:11.036Z - log: [Package] asset-db@1.0.0 enable
+2022-08-01T15:27:11.065Z - log: [Package] scene@1.0.0 enable
+2022-08-01T15:27:11.164Z - log: [Package] server@1.0.0 enable
+2022-08-01T15:27:11.190Z - log: [Package] utils@1.0.0 enable
+2022-08-01T15:27:13.120Z - log: [Package] preview@1.0.1 enable
+2022-08-01T15:27:13.148Z - log: [Package] animator@1.0.0 enable
+2022-08-01T15:27:13.750Z - log: [Package] builder@1.3.2 enable
+2022-08-01T15:27:13.779Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-01T15:27:13.809Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-01T15:27:13.834Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-01T15:27:13.860Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-01T15:27:13.890Z - log: [Package] about@1.0.0 enable
+2022-08-01T15:27:13.917Z - log: [Package] assets@1.0.0 enable
+2022-08-01T15:27:13.946Z - log: [Package] console@1.0.0 enable
+2022-08-01T15:27:14.059Z - log: [Package] extension@3.0.16 enable
+2022-08-01T15:27:14.088Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-01T15:27:14.103Z - verbose: [AssetDB] Require engine code (645ms)
+2022-08-01T15:27:14.118Z - log: [Package] inspector@1.0.0 enable
+2022-08-01T15:27:14.146Z - log: [Package] lightmap@1.0.4 enable
+2022-08-01T15:27:14.176Z - log: [Package] node-library@1.0.1 enable
+2022-08-01T15:27:14.201Z - log: [Package] package-asset@1.0.0 enable
+2022-08-01T15:27:14.234Z - log: [Package] process@1.0.0 enable
+2022-08-01T15:27:14.265Z - log: [Package] reference-image@1.0.0 enable
+2022-08-01T15:27:14.287Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-01T15:27:14.311Z - log: [Package] android@1.0.0 enable
+2022-08-01T15:27:14.335Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-01T15:27:14.361Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-01T15:27:14.387Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-01T15:27:14.411Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-01T15:27:14.435Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-01T15:27:14.970Z - log: [Package] ios@1.0.0 enable
+2022-08-01T15:27:14.994Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-01T15:27:15.020Z - log: [Package] link-sure@1.0.0 enable
+2022-08-01T15:27:15.047Z - log: [Package] linux@1.0.0 enable
+2022-08-01T15:27:15.074Z - log: [Package] mac@1.0.0 enable
+2022-08-01T15:27:15.149Z - log: [Package] native@1.0.0 enable
+2022-08-01T15:27:15.171Z - log: [Package] ohos@1.0.0 enable
+2022-08-01T15:27:15.197Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-01T15:27:15.224Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-01T15:27:15.247Z - log: [Package] qtt@1.0.0 enable
+2022-08-01T15:27:15.275Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-01T15:27:15.310Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-01T15:27:15.342Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-01T15:27:15.376Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-01T15:27:15.401Z - log: [Package] windows@1.0.0 enable
+2022-08-01T15:27:15.427Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-01T15:27:15.575Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-01T15:27:15.606Z - log: [Package] importer@1.0.0 enable
+2022-08-01T15:27:15.759Z - log: [Im-plugin] Check im-plugin version.
+2022-08-01T15:27:15.767Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-01T15:27:16.398Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-01T15:27:18.166Z - verbose: [Scene] Require engine code (0ms)
+2022-08-01T15:27:18.167Z - verbose: [Scene] Startup engine (0ms)
+2022-08-01T15:27:18.193Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-01T15:27:18.418Z - verbose: [Scene] Open engine (251ms)
+2022-08-01T15:27:18.419Z - verbose: [Scene] Configure engine (0ms)
+2022-08-01T15:27:18.309Z - info: [Scene] Forward render pipeline initialized.
+2022-08-02T01:00:00.138Z - error: getImSetting failed
+2022-08-02T01:18:26.190Z - error: getImSetting failed
+2022-08-02T01:29:45.770Z - error: getImSetting failed
+2022-08-02T01:46:32.567Z - warn: Metrics: no valid info
+2022-08-02T02:27:39.826Z - log: [Package] menu@1.0.0 enable
+2022-08-02T02:27:39.829Z - log: [Package] profile@1.0.0 enable
+2022-08-02T02:27:39.839Z - log: [Package] project@1.0.2 enable
+2022-08-02T02:27:39.843Z - log: [Package] messages@1.0.0 enable
+2022-08-02T02:27:39.846Z - log: [Package] program@1.0.0 enable
+2022-08-02T02:27:39.850Z - log: [Package] tester@1.0.0 enable
+2022-08-02T02:27:39.854Z - log: [Package] preferences@1.0.0 enable
+2022-08-02T02:27:40.203Z - log: Setup mods mgr.: 166.055ms
+2022-08-02T02:27:40.205Z - log: Profile changed: engine (modules.includeModules: 2d,3d,animation,audio,base,gfx-webgl,gfx-webgl2,marionette,particle,physics-cannon,primitive,profiler,skeletal-animation,tween,ui)
+2022-08-02T02:27:40.217Z - verbose: [Engine] QuickCompile engine (328ms)
+2022-08-02T02:27:40.219Z - log: [Package] engine@1.0.6 enable
+2022-08-02T02:27:40.781Z - log: [Package] programming@1.0.0 enable
+2022-08-02T02:27:41.047Z - log: [Package] device@1.0.1 enable
+2022-08-02T02:27:41.074Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-02T02:27:41.100Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-02T02:27:41.149Z - log: [Package] asset-db@1.0.0 enable
+2022-08-02T02:27:41.181Z - log: [Package] scene@1.0.0 enable
+2022-08-02T02:27:41.310Z - log: [Package] server@1.0.0 enable
+2022-08-02T02:27:41.335Z - log: [Package] utils@1.0.0 enable
+2022-08-02T02:27:43.435Z - log: [Package] preview@1.0.1 enable
+2022-08-02T02:27:43.462Z - log: [Package] animator@1.0.0 enable
+2022-08-02T02:27:44.085Z - log: [Package] builder@1.3.2 enable
+2022-08-02T02:27:44.115Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-02T02:27:44.144Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-02T02:27:44.165Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-02T02:27:44.188Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-02T02:27:44.219Z - log: [Package] about@1.0.0 enable
+2022-08-02T02:27:44.249Z - log: [Package] assets@1.0.0 enable
+2022-08-02T02:27:44.278Z - log: [Package] console@1.0.0 enable
+2022-08-02T02:27:44.386Z - log: [Package] extension@3.0.16 enable
+2022-08-02T02:27:44.417Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-02T02:27:44.451Z - log: [Package] inspector@1.0.0 enable
+2022-08-02T02:27:44.484Z - log: [Package] lightmap@1.0.4 enable
+2022-08-02T02:27:44.514Z - log: [Package] node-library@1.0.1 enable
+2022-08-02T02:27:44.537Z - log: [Package] package-asset@1.0.0 enable
+2022-08-02T02:27:44.545Z - verbose: [AssetDB] Require engine code (748ms)
+2022-08-02T02:27:44.568Z - log: [Package] process@1.0.0 enable
+2022-08-02T02:27:44.598Z - log: [Package] reference-image@1.0.0 enable
+2022-08-02T02:27:44.622Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-02T02:27:44.649Z - log: [Package] android@1.0.0 enable
+2022-08-02T02:27:44.672Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-02T02:27:44.696Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-02T02:27:44.719Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-02T02:27:44.745Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-02T02:27:44.772Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-02T02:27:45.320Z - log: [Package] ios@1.0.0 enable
+2022-08-02T02:27:45.346Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-02T02:27:45.371Z - log: [Package] link-sure@1.0.0 enable
+2022-08-02T02:27:45.399Z - log: [Package] linux@1.0.0 enable
+2022-08-02T02:27:45.423Z - log: [Package] mac@1.0.0 enable
+2022-08-02T02:27:45.501Z - log: [Package] native@1.0.0 enable
+2022-08-02T02:27:45.526Z - log: [Package] ohos@1.0.0 enable
+2022-08-02T02:27:45.553Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-02T02:27:45.578Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-02T02:27:45.604Z - log: [Package] qtt@1.0.0 enable
+2022-08-02T02:27:45.628Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-02T02:27:45.663Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-02T02:27:45.698Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-02T02:27:45.732Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-02T02:27:45.758Z - log: [Package] windows@1.0.0 enable
+2022-08-02T02:27:45.784Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-02T02:27:45.955Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-02T02:27:45.986Z - log: [Package] importer@1.0.0 enable
+2022-08-02T02:27:46.164Z - log: [Im-plugin] Check im-plugin version.
+2022-08-02T02:27:46.173Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-02T02:27:46.939Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-02T02:27:48.291Z - verbose: [Scene] Require engine code (1ms)
+2022-08-02T02:27:48.291Z - verbose: [Scene] Startup engine (0ms)
+2022-08-02T02:27:48.356Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-02T02:27:48.574Z - verbose: [Scene] Open engine (283ms)
+2022-08-02T02:27:48.575Z - verbose: [Scene] Configure engine (0ms)
+2022-08-02T02:27:48.474Z - info: [Scene] Forward render pipeline initialized.
+2022-08-02T02:27:54.591Z - error: [Preview]TypeError: null is not an object (evaluating 'this.csvManager.queryByID') in http://localhost:7456/scripting/x/chunks/25/2506d82bf65fe3d5860ee8539c4c70ab10badf86.js
+2022-08-02T02:28:03.764Z - warn: Metrics: no valid info
+2022-08-02T02:28:03.774Z - error: Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: Invalid guestInstanceId: 6
+    at getGuestForWebContents (electron/js2c/browser_init.js:181:6307)
+    at electron/js2c/browser_init.js:181:5372
+    at electron/js2c/browser_init.js:181:1637
+    at electron/js2c/browser_init.js:197:579
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9782)
+    at Object.emit (events.js:315:20)

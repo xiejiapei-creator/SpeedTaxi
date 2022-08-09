@@ -1,23 +1,23 @@
-debug: Sat, 30 Jul 2022 11:22:42 GMT
+debug: Tue, 02 Aug 2022 02:27:46 GMT
 debug: Project: /Users/xiejiapei/SpeedTaxi
 debug: Targets: editor,preview
 debug: Incremental file seems great.
 debug: Engine path: /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine
 debug: Initializing target [Editor]
 debug: Loading cache
-debug: Loading cache costs 5.490124940872192ms.
+debug: Loading cache costs 7.095582962036133ms.
 debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
 debug: Initializing target [Preview]
 debug: Loading cache
-debug: Loading cache costs 6.7272080183029175ms.
+debug: Loading cache costs 6.938708066940308ms.
 debug: Sync engine features: 2d,3d,animation,audio,base,gfx-webgl,gfx-webgl2,marionette,particle,physics-cannon,primitive,profiler,skeletal-animation,tween,ui
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 16.00108301639557ms.
+debug: Fetch asset-db cost: 17.655791997909546ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 60
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
 debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
@@ -42,231 +42,28 @@ debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external d
 debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
 debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
 debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as cce:/internal/code-quality/cr.mjs.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sat Jul 30 2022 19:03:43 GMT+0800 (中国标准时间), Current mtime: Sat Jul 30 2022 19:22:36 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Mon Aug 01 2022 23:27:10 GMT+0800 (中国标准时间), Current mtime: Tue Aug 02 2022 10:27:40 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/code-quality/cr.mjs
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as cce:/internal/x/cc.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts as cce:/internal/x/cc.
-debug: Resolve ./oneToMultiListener from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as cce:/internal/x/cc.
-debug: Resolve ./configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts as cce:/internal/x/cc.
-debug: Resolve ./resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as cce:/internal/x/cc.
-debug: Resolve ./car from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts.
-debug: Resolve ./follow from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts as cce:/internal/x/cc.
-debug: Resolve ./roadPoint from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as cce:/internal/x/cc.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as cce:/internal/x/cc.
-debug: Resolve ./configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Resolve ./constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ./util from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as cce:/internal/x/cc.
-debug: Resolve ./resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ./csvManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as cce:/internal/x/cc.
-debug: Resolve ./carManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as cce:/internal/x/cc.
-debug: Resolve ./fightMap from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as cce:/internal/x/cc.
-debug: Resolve ./roadPoint from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts as cce:/internal/x/cc.
-debug: Resolve ./polyglot.min from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts as cce:/internal/x/cc.
-debug: Resolve ./customerManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts.
-debug: Resolve ./carManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as cce:/internal/x/cc.
-debug: Resolve ./resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ./poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../ui/common/tips from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../ui/fight/fightCanvas from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as cce:/internal/x/cc.
-debug: Resolve ../../fight/carManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../framework/configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../ui/main/flyReward from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ./flyRewardItem from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../common/loading from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts as cce:/internal/x/cc.
-debug: Resolve ./updateValueLabel from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ./effectManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts.
-debug: Resolve ../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as cce:/internal/x/cc.
-debug: Resolve ../ui/main/setting from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Resolve ../../framework/configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
-debug: Resolve ./audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
@@ -274,259 +71,43 @@ debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourc
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/en.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/en.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/en.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/en.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/zh.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/zh.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/zh.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/zh.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as cce:/internal/x/cc.
-debug: Resolve cc/env from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as external dependency cc/env.
-debug: Resolve ./LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts as cce:/internal/x/cc.
-debug: Resolve ./SpriteFrameSet from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as cce:/internal/x/cc.
-debug: Resolve ./framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ./framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ./framework/configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Resolve ./ui/common/loading from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts.
-debug: Resolve ./i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as cce:/internal/x/cc.
-debug: Resolve ../../fight/fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/lodash from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts.
-debug: Resolve ./lotteryItem from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as cce:/internal/x/cc.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as cce:/internal/x/cc.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ./shopPage from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ./shopItem from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ./signInItem from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts.
-debug: Target(editor) ends with cost 1661.414708018303ms.
+debug: Target(editor) ends with cost 157.7123339176178ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
 debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
@@ -543,231 +124,28 @@ debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as externa
 debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
 debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
 debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:10 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as cce:/internal/code-quality/cr.mjs.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sat Jul 30 2022 19:03:43 GMT+0800 (中国标准时间), Current mtime: Sat Jul 30 2022 19:22:36 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Mon Aug 01 2022 23:27:10 GMT+0800 (中国标准时间), Current mtime: Tue Aug 02 2022 10:27:40 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/code-quality/cr.mjs
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as cce:/internal/x/cc.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts as cce:/internal/x/cc.
-debug: Resolve ./oneToMultiListener from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as cce:/internal/x/cc.
-debug: Resolve ./configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts as cce:/internal/x/cc.
-debug: Resolve ./resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as cce:/internal/x/cc.
-debug: Resolve ./car from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/car.ts.
-debug: Resolve ./follow from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts as cce:/internal/x/cc.
-debug: Resolve ./roadPoint from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as cce:/internal/x/cc.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as cce:/internal/x/cc.
-debug: Resolve ./configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Resolve ./constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ./util from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as cce:/internal/x/cc.
-debug: Resolve ./resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ./csvManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as cce:/internal/x/cc.
-debug: Resolve ./carManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as cce:/internal/x/cc.
-debug: Resolve ./fightMap from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as cce:/internal/x/cc.
-debug: Resolve ./roadPoint from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts as cce:/internal/x/cc.
-debug: Resolve ./polyglot.min from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts as cce:/internal/x/cc.
-debug: Resolve ./customerManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts.
-debug: Resolve ./carManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ./fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as cce:/internal/x/cc.
-debug: Resolve ./resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ./poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../ui/common/tips from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../ui/fight/fightCanvas from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as cce:/internal/x/cc.
-debug: Resolve ../../fight/carManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../framework/configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Resolve ../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../ui/main/flyReward from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ./flyRewardItem from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts as cce:/internal/x/cc.
-debug: Resolve ../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../common/loading from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts as cce:/internal/x/cc.
-debug: Resolve ./updateValueLabel from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ./effectManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts.
-debug: Resolve ../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/roadPoint.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as cce:/internal/x/cc.
-debug: Resolve ../ui/main/setting from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Resolve ../../framework/configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
-debug: Resolve ./audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/GameRoot.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
@@ -775,254 +153,38 @@ debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourc
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/en.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/en.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/en.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/en.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/zh.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/zh.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/zh.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/i18n/zh.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as cce:/internal/x/cc.
-debug: Resolve cc/env from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as external dependency cc/env.
-debug: Resolve ./LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedLabel.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts as cce:/internal/x/cc.
-debug: Resolve ./SpriteFrameSet from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LocalizedSprite.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/SpriteFrameSet.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/polyglot.min.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as cce:/internal/x/cc.
-debug: Resolve ./framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ./framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ./framework/configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
-debug: Resolve ./ui/common/loading from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts.
-debug: Resolve ./i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/main.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/blockInputEvent.ts as cce:/internal/x/cc.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/btnAdapter.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/loading.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/showReward.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/tips.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/common/updateValueLabel.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/audioManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/audioManager.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/balance.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as cce:/internal/x/cc.
-debug: Resolve ../../fight/fightConstants from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/clickBox.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightCanvas.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/fightUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/fight/revive.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/lodash from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts.
-debug: Resolve ./lotteryItem from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/configuration from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lottery.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/lottery/lotteryItem.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyReward.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/flyRewardItem.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as cce:/internal/x/cc.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/invincible.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/mainUI.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/setting.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/main/trial.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/online.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as cce:/internal/x/cc.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/online/onlineDouble.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ./shopPage from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ./shopItem from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/poolManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shop.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopItem.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/shop/shopPage.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ./signInItem from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts.
-debug: Inspect file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as cce:/internal/x/cc.
-debug: Resolve ../../framework/playerData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts.
-debug: Resolve ../../framework/constant from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/localConfig from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../framework/uiManager from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/uiManager.ts.
-debug: Resolve ../../framework/resourceUtil from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts.
-debug: Resolve ../../logic/gameLogic from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/logic/gameLogic.ts.
-debug: Resolve ../../framework/util from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/util.ts.
-debug: Resolve ../../framework/clientEvent from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/clientEvent.ts.
-debug: Resolve ../../i18nMaster/runtime-scripts/LanguageData from file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signIn.ts as file:///Users/xiejiapei/SpeedTaxi/assets/script/i18nMaster/runtime-scripts/LanguageData.ts.
 debug: Resolve file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/SpeedTaxi/assets/script/ui/signIn/signInItem.ts.
-debug: Target(preview) ends with cost 1426.2250410318375ms.
+debug: Target(preview) ends with cost 81.61333298683167ms.

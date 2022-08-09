@@ -7,7 +7,7 @@
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/carManager.ts": "./chunks/b1/b15b26a4a77cd2aeb572581f8b0522a66dd83213.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/customerManager.ts": "./chunks/cc/ccfb08569d765bc7220a01f0b9071951b9db5cf3.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/effectManager.ts": "./chunks/40/40717024e763cc827f1c905982deebf1a9d6a3d0.js",
-    "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts": "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js",
+    "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightConstants.ts": "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightManager.ts": "./chunks/37/376e1d6f06a0a662d7b149563d981ea0b36cd943.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/fightMap.ts": "./chunks/cf/cfbf7895c0805edcdd170a9c246ebeb5fa53eaff.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/fight/follow.ts": "./chunks/ab/abaa92b1f0fdeec0b957bd867dfbe1ae5ba68019.js",
@@ -18,10 +18,10 @@
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/configuration.ts": "./chunks/ac/ac315644805c67144813360e3d8659ca06dbecf7.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/constant.ts": "./chunks/ae/ae8ea97c3e0649ac1f1edcf524dbfc3c3e4ac329.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/csvManager.ts": "./chunks/40/406e7d222f7ee7864e119e1a90d5935332156933.js",
-    "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts": "./chunks/c7/c789b7eccfaacc989bac8fbb98f01494c0f5fa36.js",
+    "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/eventListener.ts": "./chunks/2e/2ee324645c5c209452dbff26273056a02fc8970e.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/localConfig.ts": "./chunks/25/2506d82bf65fe3d5860ee8539c4c70ab10badf86.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/lodash.ts": "./chunks/ea/ea695c3970f95543b0fca8d4e677c26509c21b20.js",
-    "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts": "./chunks/ae/aebdb36070d085b13866cba4eacad252ef37421b.js",
+    "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/oneToMultiListener.ts": "./chunks/f3/f3fa30dae47e730d169abc74f84b4e66230fa0d4.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/playerData.ts": "./chunks/d1/d13ce418d6edb8daabc7705a138204b607858ee7.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/poolManager.ts": "./chunks/6b/6b233005086d9bfd69b75cdfb149a46a9161c385.js",
     "file:///Users/xiejiapei/SpeedTaxi/assets/script/framework/resourceUtil.ts": "./chunks/19/19313940eb4de0499bfc8ac87ca3ace1dd6abe4f.js",
@@ -88,10 +88,10 @@
       "__unresolved_12": "./chunks/ac/ac315644805c67144813360e3d8659ca06dbecf7.js",
       "__unresolved_13": "./chunks/ae/ae8ea97c3e0649ac1f1edcf524dbfc3c3e4ac329.js",
       "__unresolved_14": "./chunks/40/406e7d222f7ee7864e119e1a90d5935332156933.js",
-      "__unresolved_15": "./chunks/c7/c789b7eccfaacc989bac8fbb98f01494c0f5fa36.js",
+      "__unresolved_15": "./chunks/2e/2ee324645c5c209452dbff26273056a02fc8970e.js",
       "__unresolved_16": "./chunks/25/2506d82bf65fe3d5860ee8539c4c70ab10badf86.js",
       "__unresolved_17": "./chunks/ea/ea695c3970f95543b0fca8d4e677c26509c21b20.js",
-      "__unresolved_18": "./chunks/ae/aebdb36070d085b13866cba4eacad252ef37421b.js",
+      "__unresolved_18": "./chunks/f3/f3fa30dae47e730d169abc74f84b4e66230fa0d4.js",
       "__unresolved_19": "./chunks/d1/d13ce418d6edb8daabc7705a138204b607858ee7.js",
       "__unresolved_2": "./chunks/cc/ccfb08569d765bc7220a01f0b9071951b9db5cf3.js",
       "__unresolved_20": "./chunks/6b/6b233005086d9bfd69b75cdfb149a46a9161c385.js",
@@ -115,7 +115,7 @@
       "__unresolved_37": "./chunks/31/317047680c456612b3ec27b6a94be1657ed8f76c.js",
       "__unresolved_38": "./chunks/ce/ce2978be2c72b292d327384d9f58a9cd9f283d39.js",
       "__unresolved_39": "./chunks/22/221d6bfca28881d6e8968acc183b1fd1f1867706.js",
-      "__unresolved_4": "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js",
+      "__unresolved_4": "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js",
       "__unresolved_40": "./chunks/ef/ef49c8032a0909015ddb3056206c56625e3d03f6.js",
       "__unresolved_41": "./chunks/d5/d543bb24e5328754f16cd7eebfe39f42d6dacd45.js",
       "__unresolved_42": "./chunks/ca/ca68d6ddd97eb6ac19480ef5b3a1a7cab0cda9de.js",
@@ -215,10 +215,10 @@
     },
     "./chunks/70/7020d897b639b2f71f786f0645a3fa2c94258fae.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
-      "__unresolved_1": "./chunks/ae/aebdb36070d085b13866cba4eacad252ef37421b.js",
+      "__unresolved_1": "./chunks/f3/f3fa30dae47e730d169abc74f84b4e66230fa0d4.js",
       "cc": "./chunks/a5/a54cb34760bec8532b019327fcd8ebfc4159351f.js"
     },
-    "./chunks/ae/aebdb36070d085b13866cba4eacad252ef37421b.js": {
+    "./chunks/f3/f3fa30dae47e730d169abc74f84b4e66230fa0d4.js": {
       "cc": "./chunks/a5/a54cb34760bec8532b019327fcd8ebfc4159351f.js"
     },
     "./chunks/ae/ae8ea97c3e0649ac1f1edcf524dbfc3c3e4ac329.js": {
@@ -246,11 +246,11 @@
     },
     "./chunks/1f/1fd3d41da894f2a6fe21a25188947d53f4923c2e.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
-      "__unresolved_1": "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js",
+      "__unresolved_1": "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js",
       "__unresolved_2": "./chunks/19/19313940eb4de0499bfc8ac87ca3ace1dd6abe4f.js",
       "cc": "./chunks/a5/a54cb34760bec8532b019327fcd8ebfc4159351f.js"
     },
-    "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js": {
+    "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js": {
       "cc": "./chunks/a5/a54cb34760bec8532b019327fcd8ebfc4159351f.js"
     },
     "./chunks/ab/abaa92b1f0fdeec0b957bd867dfbe1ae5ba68019.js": {
@@ -259,7 +259,7 @@
     "./chunks/cf/cfbf7895c0805edcdd170a9c246ebeb5fa53eaff.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/1f/1fd3d41da894f2a6fe21a25188947d53f4923c2e.js",
-      "__unresolved_2": "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js",
+      "__unresolved_2": "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js",
       "__unresolved_3": "./chunks/19/19313940eb4de0499bfc8ac87ca3ace1dd6abe4f.js",
       "__unresolved_4": "./chunks/6b/6b233005086d9bfd69b75cdfb149a46a9161c385.js",
       "__unresolved_5": "./chunks/70/7020d897b639b2f71f786f0645a3fa2c94258fae.js",
@@ -359,7 +359,7 @@
       "__unresolved_2": "./chunks/cc/ccfb08569d765bc7220a01f0b9071951b9db5cf3.js",
       "__unresolved_3": "./chunks/b1/b15b26a4a77cd2aeb572581f8b0522a66dd83213.js",
       "__unresolved_4": "./chunks/70/7020d897b639b2f71f786f0645a3fa2c94258fae.js",
-      "__unresolved_5": "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js",
+      "__unresolved_5": "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js",
       "__unresolved_6": "./chunks/19/19313940eb4de0499bfc8ac87ca3ace1dd6abe4f.js",
       "__unresolved_7": "./chunks/bc/bc3b86fecbfe800e614b3e3152118d835e14b80e.js",
       "__unresolved_8": "./chunks/d1/d13ce418d6edb8daabc7705a138204b607858ee7.js",
@@ -385,7 +385,7 @@
     "./chunks/b1/b15b26a4a77cd2aeb572581f8b0522a66dd83213.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/47/4710f7fec24f6c4dc77c9be52aa86c9236dd9a4d.js",
-      "__unresolved_10": "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js",
+      "__unresolved_10": "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js",
       "__unresolved_2": "./chunks/ab/abaa92b1f0fdeec0b957bd867dfbe1ae5ba68019.js",
       "__unresolved_3": "./chunks/1f/1fd3d41da894f2a6fe21a25188947d53f4923c2e.js",
       "__unresolved_4": "./chunks/70/7020d897b639b2f71f786f0645a3fa2c94258fae.js",
@@ -398,7 +398,7 @@
     },
     "./chunks/47/4710f7fec24f6c4dc77c9be52aa86c9236dd9a4d.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
-      "__unresolved_1": "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js",
+      "__unresolved_1": "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js",
       "__unresolved_2": "./chunks/70/7020d897b639b2f71f786f0645a3fa2c94258fae.js",
       "__unresolved_3": "./chunks/13/13f37e37f3f22ccd6cdcb6a8f7c8a3c9bb14781b.js",
       "__unresolved_4": "./chunks/ae/ae8ea97c3e0649ac1f1edcf524dbfc3c3e4ac329.js",
@@ -409,7 +409,7 @@
     "./chunks/cc/ccfb08569d765bc7220a01f0b9071951b9db5cf3.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/70/7020d897b639b2f71f786f0645a3fa2c94258fae.js",
-      "__unresolved_2": "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js",
+      "__unresolved_2": "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js",
       "__unresolved_3": "./chunks/13/13f37e37f3f22ccd6cdcb6a8f7c8a3c9bb14781b.js",
       "__unresolved_4": "./chunks/ae/ae8ea97c3e0649ac1f1edcf524dbfc3c3e4ac329.js",
       "__unresolved_5": "./chunks/19/19313940eb4de0499bfc8ac87ca3ace1dd6abe4f.js",
@@ -492,7 +492,7 @@
     },
     "./chunks/ef/ef49c8032a0909015ddb3056206c56625e3d03f6.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
-      "__unresolved_1": "./chunks/a6/a6e9feb4d3dab95647e048ff4047cb3a8223f8c9.js",
+      "__unresolved_1": "./chunks/07/07e55032966b5330885c010cf4adb9ab54a47bf0.js",
       "__unresolved_2": "./chunks/48/48bd6f2de1208da6b870c4761905acbd0f8bf4e0.js",
       "__unresolved_3": "./chunks/bc/bc3b86fecbfe800e614b3e3152118d835e14b80e.js",
       "__unresolved_4": "./chunks/ae/ae8ea97c3e0649ac1f1edcf524dbfc3c3e4ac329.js",
@@ -559,7 +559,7 @@
     "./chunks/cc/cc3f861f16118174a9d0637413276b062b64243b.js": {
       "cc": "./chunks/a5/a54cb34760bec8532b019327fcd8ebfc4159351f.js"
     },
-    "./chunks/c7/c789b7eccfaacc989bac8fbb98f01494c0f5fa36.js": {
+    "./chunks/2e/2ee324645c5c209452dbff26273056a02fc8970e.js": {
       "cc": "./chunks/a5/a54cb34760bec8532b019327fcd8ebfc4159351f.js"
     }
   }
